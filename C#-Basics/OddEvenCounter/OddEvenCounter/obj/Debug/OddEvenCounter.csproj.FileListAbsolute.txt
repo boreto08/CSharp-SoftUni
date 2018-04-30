@@ -1,0 +1,1 @@
+D:\SoftUni\OddEvenCounter\OddEvenCounter\bin\Debug\OddEvenCounter.exe.config

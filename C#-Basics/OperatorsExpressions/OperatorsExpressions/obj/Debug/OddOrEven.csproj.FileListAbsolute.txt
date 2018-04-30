@@ -1,0 +1,6 @@
+D:\SoftUni\OperatorsExpressions\OperatorsExpressions\bin\Debug\OperatorsExpressions.exe.config
+D:\SoftUni\OperatorsExpressions\OperatorsExpressions\bin\Debug\OperatorsExpressions.exe
+D:\SoftUni\OperatorsExpressions\OperatorsExpressions\bin\Debug\OperatorsExpressions.pdb
+D:\SoftUni\OperatorsExpressions\OperatorsExpressions\obj\Debug\OddOrEven.csprojResolveAssemblyReference.cache
+D:\SoftUni\OperatorsExpressions\OperatorsExpressions\obj\Debug\OperatorsExpressions.exe
+D:\SoftUni\OperatorsExpressions\OperatorsExpressions\obj\Debug\OperatorsExpressions.pdb

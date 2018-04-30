@@ -1,0 +1,6 @@
+D:\SoftUni\SimpleLoops\SimpleLoops\bin\Debug\SimpleLoops.exe.config
+D:\SoftUni\SimpleLoops\SimpleLoops\bin\Debug\SimpleLoops.exe
+D:\SoftUni\SimpleLoops\SimpleLoops\bin\Debug\SimpleLoops.pdb
+D:\SoftUni\SimpleLoops\SimpleLoops\obj\Debug\SimpleLoops.csprojResolveAssemblyReference.cache
+D:\SoftUni\SimpleLoops\SimpleLoops\obj\Debug\SimpleLoops.exe
+D:\SoftUni\SimpleLoops\SimpleLoops\obj\Debug\SimpleLoops.pdb

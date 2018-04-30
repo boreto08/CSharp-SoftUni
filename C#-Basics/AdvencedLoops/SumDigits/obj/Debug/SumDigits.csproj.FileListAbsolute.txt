@@ -1,0 +1,7 @@
+D:\SoftUni\AdvencedLoops\SumDigits\bin\Debug\SumDigits.exe.config
+D:\SoftUni\AdvencedLoops\SumDigits\bin\Debug\SumDigits.exe
+D:\SoftUni\AdvencedLoops\SumDigits\bin\Debug\SumDigits.pdb
+D:\SoftUni\AdvencedLoops\SumDigits\obj\Debug\SumDigits.exe
+D:\SoftUni\AdvencedLoops\SumDigits\obj\Debug\SumDigits.pdb
+D:\SoftUni\AdvencedLoops\SumDigits\bin\Debug\SumDigits.exe.CodeAnalysisLog.xml
+D:\SoftUni\AdvencedLoops\SumDigits\bin\Debug\SumDigits.exe.lastcodeanalysissucceeded

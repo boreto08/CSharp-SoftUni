@@ -1,0 +1,5 @@
+D:\SoftUni\1000DaysAfterBirth\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.exe.config
+D:\SoftUni\1000DaysAfterBirth\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.exe
+D:\SoftUni\1000DaysAfterBirth\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.pdb
+D:\SoftUni\1000DaysAfterBirth\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.exe
+D:\SoftUni\1000DaysAfterBirth\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.pdb

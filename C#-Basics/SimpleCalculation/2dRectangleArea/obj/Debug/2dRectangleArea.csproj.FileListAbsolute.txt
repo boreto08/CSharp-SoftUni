@@ -1,0 +1,6 @@
+D:\SoftUni\SimpleCalculation\2dRectangleArea\bin\Debug\2dRectangleArea.exe.config
+D:\SoftUni\SimpleCalculation\2dRectangleArea\bin\Debug\2dRectangleArea.exe
+D:\SoftUni\SimpleCalculation\2dRectangleArea\bin\Debug\2dRectangleArea.pdb
+D:\SoftUni\SimpleCalculation\2dRectangleArea\obj\Debug\2dRectangleArea.csprojResolveAssemblyReference.cache
+D:\SoftUni\SimpleCalculation\2dRectangleArea\obj\Debug\2dRectangleArea.exe
+D:\SoftUni\SimpleCalculation\2dRectangleArea\obj\Debug\2dRectangleArea.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\OperatorsExpressions\Problem12ExtractBitInteger\bin\Debug\Problem12ExtractBitInteger.exe.config
+D:\SoftUni\OperatorsExpressions\Problem12ExtractBitInteger\bin\Debug\Problem12ExtractBitInteger.exe
+D:\SoftUni\OperatorsExpressions\Problem12ExtractBitInteger\bin\Debug\Problem12ExtractBitInteger.pdb
+D:\SoftUni\OperatorsExpressions\Problem12ExtractBitInteger\obj\Debug\Problem12ExtractBitInteger.exe
+D:\SoftUni\OperatorsExpressions\Problem12ExtractBitInteger\obj\Debug\Problem12ExtractBitInteger.pdb

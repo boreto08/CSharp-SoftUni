@@ -1,0 +1,6 @@
+D:\SoftUni\DreamItem\DreamItem\bin\Debug\DreamItem.exe.config
+D:\SoftUni\DreamItem\DreamItem\obj\Debug\DreamItem.csprojResolveAssemblyReference.cache
+D:\SoftUni\DreamItem\DreamItem\bin\Debug\DreamItem.exe
+D:\SoftUni\DreamItem\DreamItem\bin\Debug\DreamItem.pdb
+D:\SoftUni\DreamItem\DreamItem\obj\Debug\DreamItem.exe
+D:\SoftUni\DreamItem\DreamItem\obj\Debug\DreamItem.pdb

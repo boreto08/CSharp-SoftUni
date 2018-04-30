@@ -1,0 +1,6 @@
+D:\SoftUni\PythagoreanNumbers\PythagoreanNumbers\bin\Debug\PythagoreanNumbers.exe.config
+D:\SoftUni\PythagoreanNumbers\PythagoreanNumbers\bin\Debug\PythagoreanNumbers.exe
+D:\SoftUni\PythagoreanNumbers\PythagoreanNumbers\bin\Debug\PythagoreanNumbers.pdb
+D:\SoftUni\PythagoreanNumbers\PythagoreanNumbers\obj\Debug\PythagoreanNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\PythagoreanNumbers\PythagoreanNumbers\obj\Debug\PythagoreanNumbers.exe
+D:\SoftUni\PythagoreanNumbers\PythagoreanNumbers\obj\Debug\PythagoreanNumbers.pdb

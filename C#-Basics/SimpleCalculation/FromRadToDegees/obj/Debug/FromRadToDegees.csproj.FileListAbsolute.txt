@@ -1,0 +1,5 @@
+D:\SoftUni\SimpleCalculation\FromRadToDegees\bin\Debug\FromRadToDegees.exe.config
+D:\SoftUni\SimpleCalculation\FromRadToDegees\bin\Debug\FromRadToDegees.exe
+D:\SoftUni\SimpleCalculation\FromRadToDegees\bin\Debug\FromRadToDegees.pdb
+D:\SoftUni\SimpleCalculation\FromRadToDegees\obj\Debug\FromRadToDegees.exe
+D:\SoftUni\SimpleCalculation\FromRadToDegees\obj\Debug\FromRadToDegees.pdb

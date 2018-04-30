@@ -1,0 +1,7 @@
+D:\SoftUni\AdvencedLoops\GCD\bin\Debug\GCD.exe.config
+D:\SoftUni\AdvencedLoops\GCD\bin\Debug\GCD.exe
+D:\SoftUni\AdvencedLoops\GCD\bin\Debug\GCD.pdb
+D:\SoftUni\AdvencedLoops\GCD\obj\Debug\GCD.exe
+D:\SoftUni\AdvencedLoops\GCD\obj\Debug\GCD.pdb
+D:\SoftUni\AdvencedLoops\GCD\bin\Debug\GCD.exe.CodeAnalysisLog.xml
+D:\SoftUni\AdvencedLoops\GCD\bin\Debug\GCD.exe.lastcodeanalysissucceeded

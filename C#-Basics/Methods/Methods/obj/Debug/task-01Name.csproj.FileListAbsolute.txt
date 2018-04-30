@@ -1,0 +1,6 @@
+D:\SoftUni\Methods\Methods\bin\Debug\Methods.exe.config
+D:\SoftUni\Methods\Methods\bin\Debug\Methods.exe
+D:\SoftUni\Methods\Methods\bin\Debug\Methods.pdb
+D:\SoftUni\Methods\Methods\obj\Debug\task-01Name.csprojResolveAssemblyReference.cache
+D:\SoftUni\Methods\Methods\obj\Debug\Methods.exe
+D:\SoftUni\Methods\Methods\obj\Debug\Methods.pdb

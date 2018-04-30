@@ -1,0 +1,6 @@
+D:\SoftUni\TheFootballStatistician\TheFootballStatistician\bin\Debug\TheFootballStatistician.exe.config
+D:\SoftUni\TheFootballStatistician\TheFootballStatistician\obj\Debug\TheFootballStatistician.csprojResolveAssemblyReference.cache
+D:\SoftUni\TheFootballStatistician\TheFootballStatistician\bin\Debug\TheFootballStatistician.exe
+D:\SoftUni\TheFootballStatistician\TheFootballStatistician\bin\Debug\TheFootballStatistician.pdb
+D:\SoftUni\TheFootballStatistician\TheFootballStatistician\obj\Debug\TheFootballStatistician.exe
+D:\SoftUni\TheFootballStatistician\TheFootballStatistician\obj\Debug\TheFootballStatistician.pdb

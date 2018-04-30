@@ -1,0 +1,6 @@
+D:\SoftUni\Boat\Boat\bin\Debug\Boat.exe.config
+D:\SoftUni\Boat\Boat\bin\Debug\Boat.exe
+D:\SoftUni\Boat\Boat\bin\Debug\Boat.pdb
+D:\SoftUni\Boat\Boat\obj\Debug\Boat.csprojResolveAssemblyReference.cache
+D:\SoftUni\Boat\Boat\obj\Debug\Boat.exe
+D:\SoftUni\Boat\Boat\obj\Debug\Boat.pdb

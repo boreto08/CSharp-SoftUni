@@ -1,0 +1,6 @@
+D:\SoftUni\BitSifting\BitSifting\bin\Debug\BitSifting.exe.config
+D:\SoftUni\BitSifting\BitSifting\bin\Debug\BitSifting.exe
+D:\SoftUni\BitSifting\BitSifting\bin\Debug\BitSifting.pdb
+D:\SoftUni\BitSifting\BitSifting\obj\Debug\BitSifting.csprojResolveAssemblyReference.cache
+D:\SoftUni\BitSifting\BitSifting\obj\Debug\BitSifting.exe
+D:\SoftUni\BitSifting\BitSifting\obj\Debug\BitSifting.pdb

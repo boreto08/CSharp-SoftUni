@@ -1,0 +1,5 @@
+D:\SoftUni\OperatorsExpressions\Problem2GravitationMoon\bin\Debug\Problem2GravitationMoon.exe.config
+D:\SoftUni\OperatorsExpressions\Problem2GravitationMoon\bin\Debug\Problem2GravitationMoon.exe
+D:\SoftUni\OperatorsExpressions\Problem2GravitationMoon\bin\Debug\Problem2GravitationMoon.pdb
+D:\SoftUni\OperatorsExpressions\Problem2GravitationMoon\obj\Debug\Problem2GravitationMoon.exe
+D:\SoftUni\OperatorsExpressions\Problem2GravitationMoon\obj\Debug\Problem2GravitationMoon.pdb

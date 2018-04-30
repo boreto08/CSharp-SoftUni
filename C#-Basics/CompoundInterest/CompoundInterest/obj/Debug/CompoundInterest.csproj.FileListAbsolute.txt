@@ -1,0 +1,6 @@
+D:\SoftUni\CompoundInterest\CompoundInterest\bin\Debug\CompoundInterest.exe.config
+D:\SoftUni\CompoundInterest\CompoundInterest\obj\Debug\CompoundInterest.csprojResolveAssemblyReference.cache
+D:\SoftUni\CompoundInterest\CompoundInterest\bin\Debug\CompoundInterest.exe
+D:\SoftUni\CompoundInterest\CompoundInterest\bin\Debug\CompoundInterest.pdb
+D:\SoftUni\CompoundInterest\CompoundInterest\obj\Debug\CompoundInterest.exe
+D:\SoftUni\CompoundInterest\CompoundInterest\obj\Debug\CompoundInterest.pdb

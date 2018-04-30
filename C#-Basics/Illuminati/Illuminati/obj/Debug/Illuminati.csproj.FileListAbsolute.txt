@@ -1,0 +1,6 @@
+D:\SoftUni\Illuminati\Illuminati\bin\Debug\Illuminati.exe.config
+D:\SoftUni\Illuminati\Illuminati\bin\Debug\Illuminati.exe
+D:\SoftUni\Illuminati\Illuminati\bin\Debug\Illuminati.pdb
+D:\SoftUni\Illuminati\Illuminati\obj\Debug\Illuminati.csprojResolveAssemblyReference.cache
+D:\SoftUni\Illuminati\Illuminati\obj\Debug\Illuminati.exe
+D:\SoftUni\Illuminati\Illuminati\obj\Debug\Illuminati.pdb

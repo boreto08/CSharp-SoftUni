@@ -1,0 +1,6 @@
+D:\SoftUni\01ProblemNumbersfrom1toN\12Problem.RandomizeNumbers1ToN\bin\Debug\12Problem.RandomizeNumbers1ToN.exe.config
+D:\SoftUni\01ProblemNumbersfrom1toN\12Problem.RandomizeNumbers1ToN\obj\Debug\12Problem.RandomizeNumbers1ToN.csprojResolveAssemblyReference.cache
+D:\SoftUni\01ProblemNumbersfrom1toN\12Problem.RandomizeNumbers1ToN\bin\Debug\12Problem.RandomizeNumbers1ToN.exe
+D:\SoftUni\01ProblemNumbersfrom1toN\12Problem.RandomizeNumbers1ToN\bin\Debug\12Problem.RandomizeNumbers1ToN.pdb
+D:\SoftUni\01ProblemNumbersfrom1toN\12Problem.RandomizeNumbers1ToN\obj\Debug\12Problem.RandomizeNumbers1ToN.exe
+D:\SoftUni\01ProblemNumbersfrom1toN\12Problem.RandomizeNumbers1ToN\obj\Debug\12Problem.RandomizeNumbers1ToN.pdb

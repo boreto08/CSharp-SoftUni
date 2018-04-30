@@ -1,0 +1,5 @@
+D:\SoftUni\SimpleLoops\LeftRightSum\bin\Debug\LeftRightSum.exe.config
+D:\SoftUni\SimpleLoops\LeftRightSum\bin\Debug\LeftRightSum.exe
+D:\SoftUni\SimpleLoops\LeftRightSum\bin\Debug\LeftRightSum.pdb
+D:\SoftUni\SimpleLoops\LeftRightSum\obj\Debug\LeftRightSum.exe
+D:\SoftUni\SimpleLoops\LeftRightSum\obj\Debug\LeftRightSum.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\01ProblemNumbersfrom1toN\04ProblemPrintDeck52Cards\bin\Debug\04ProblemPrintDeck52Cards.exe.config
+D:\SoftUni\01ProblemNumbersfrom1toN\04ProblemPrintDeck52Cards\bin\Debug\04ProblemPrintDeck52Cards.exe
+D:\SoftUni\01ProblemNumbersfrom1toN\04ProblemPrintDeck52Cards\bin\Debug\04ProblemPrintDeck52Cards.pdb
+D:\SoftUni\01ProblemNumbersfrom1toN\04ProblemPrintDeck52Cards\obj\Debug\04ProblemPrintDeck52Cards.exe
+D:\SoftUni\01ProblemNumbersfrom1toN\04ProblemPrintDeck52Cards\obj\Debug\04ProblemPrintDeck52Cards.pdb
+D:\SoftUni\01ProblemNumbersfrom1toN\04ProblemPrintDeck52Cards\obj\Debug\04ProblemPrintDeck52Cards.csprojResolveAssemblyReference.cache

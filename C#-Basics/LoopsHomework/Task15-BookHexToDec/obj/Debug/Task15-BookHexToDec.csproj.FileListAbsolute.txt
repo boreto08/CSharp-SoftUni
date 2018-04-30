@@ -1,0 +1,6 @@
+D:\SoftUni\LoopsHomework\Task15-BookHexToDec\bin\Debug\Task15-BookHexToDec.exe.config
+D:\SoftUni\LoopsHomework\Task15-BookHexToDec\obj\Debug\Task15-BookHexToDec.csprojResolveAssemblyReference.cache
+D:\SoftUni\LoopsHomework\Task15-BookHexToDec\bin\Debug\Task15-BookHexToDec.exe
+D:\SoftUni\LoopsHomework\Task15-BookHexToDec\bin\Debug\Task15-BookHexToDec.pdb
+D:\SoftUni\LoopsHomework\Task15-BookHexToDec\obj\Debug\Task15-BookHexToDec.exe
+D:\SoftUni\LoopsHomework\Task15-BookHexToDec\obj\Debug\Task15-BookHexToDec.pdb

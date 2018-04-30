@@ -1,0 +1,6 @@
+D:\SoftUni\EncryptedMatrix\EncryptedMatrix\bin\Debug\EncryptedMatrix.exe.config
+D:\SoftUni\EncryptedMatrix\EncryptedMatrix\bin\Debug\EncryptedMatrix.exe
+D:\SoftUni\EncryptedMatrix\EncryptedMatrix\bin\Debug\EncryptedMatrix.pdb
+D:\SoftUni\EncryptedMatrix\EncryptedMatrix\obj\Debug\EncryptedMatrix.csprojResolveAssemblyReference.cache
+D:\SoftUni\EncryptedMatrix\EncryptedMatrix\obj\Debug\EncryptedMatrix.exe
+D:\SoftUni\EncryptedMatrix\EncryptedMatrix\obj\Debug\EncryptedMatrix.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\ListsArraysAndMore\SequencesEqualStrings\bin\Debug\SequencesEqualStrings.exe.config
+D:\SoftUni\ListsArraysAndMore\SequencesEqualStrings\obj\Debug\SequencesEqualStrings.csprojResolveAssemblyReference.cache
+D:\SoftUni\ListsArraysAndMore\SequencesEqualStrings\bin\Debug\SequencesEqualStrings.exe
+D:\SoftUni\ListsArraysAndMore\SequencesEqualStrings\bin\Debug\SequencesEqualStrings.pdb
+D:\SoftUni\ListsArraysAndMore\SequencesEqualStrings\obj\Debug\SequencesEqualStrings.exe
+D:\SoftUni\ListsArraysAndMore\SequencesEqualStrings\obj\Debug\SequencesEqualStrings.pdb

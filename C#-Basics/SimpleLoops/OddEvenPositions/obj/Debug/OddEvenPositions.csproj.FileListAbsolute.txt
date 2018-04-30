@@ -1,0 +1,6 @@
+D:\SoftUni\SimpleLoops\OddEvenPositions\bin\Debug\OddEvenPositions.exe.config
+D:\SoftUni\SimpleLoops\OddEvenPositions\obj\Debug\OddEvenPositions.csprojResolveAssemblyReference.cache
+D:\SoftUni\SimpleLoops\OddEvenPositions\bin\Debug\OddEvenPositions.exe
+D:\SoftUni\SimpleLoops\OddEvenPositions\bin\Debug\OddEvenPositions.pdb
+D:\SoftUni\SimpleLoops\OddEvenPositions\obj\Debug\OddEvenPositions.exe
+D:\SoftUni\SimpleLoops\OddEvenPositions\obj\Debug\OddEvenPositions.pdb

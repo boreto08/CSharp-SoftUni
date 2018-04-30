@@ -1,0 +1,6 @@
+D:\SoftUni\01ProblemNumbersfrom1toN\06ProblemCalculateNK\bin\Debug\06ProblemCalculateNK.exe.config
+D:\SoftUni\01ProblemNumbersfrom1toN\06ProblemCalculateNK\bin\Debug\06ProblemCalculateNK.exe
+D:\SoftUni\01ProblemNumbersfrom1toN\06ProblemCalculateNK\bin\Debug\06ProblemCalculateNK.pdb
+D:\SoftUni\01ProblemNumbersfrom1toN\06ProblemCalculateNK\obj\Debug\06ProblemCalculateNK.csprojResolveAssemblyReference.cache
+D:\SoftUni\01ProblemNumbersfrom1toN\06ProblemCalculateNK\obj\Debug\06ProblemCalculateNK.exe
+D:\SoftUni\01ProblemNumbersfrom1toN\06ProblemCalculateNK\obj\Debug\06ProblemCalculateNK.pdb

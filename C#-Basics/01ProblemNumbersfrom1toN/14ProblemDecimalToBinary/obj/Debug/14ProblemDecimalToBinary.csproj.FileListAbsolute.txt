@@ -1,0 +1,6 @@
+D:\SoftUni\01ProblemNumbersfrom1toN\14ProblemDecimalToBinary\bin\Debug\14ProblemDecimalToBinary.exe.config
+D:\SoftUni\01ProblemNumbersfrom1toN\14ProblemDecimalToBinary\bin\Debug\14ProblemDecimalToBinary.exe
+D:\SoftUni\01ProblemNumbersfrom1toN\14ProblemDecimalToBinary\bin\Debug\14ProblemDecimalToBinary.pdb
+D:\SoftUni\01ProblemNumbersfrom1toN\14ProblemDecimalToBinary\obj\Debug\14ProblemDecimalToBinary.csprojResolveAssemblyReference.cache
+D:\SoftUni\01ProblemNumbersfrom1toN\14ProblemDecimalToBinary\obj\Debug\14ProblemDecimalToBinary.exe
+D:\SoftUni\01ProblemNumbersfrom1toN\14ProblemDecimalToBinary\obj\Debug\14ProblemDecimalToBinary.pdb

@@ -1,0 +1,8 @@
+D:\SoftUni\AdvencedLoops\EvenPowersOfTwo\bin\Debug\EvenPowersOfTwo.exe.config
+D:\SoftUni\AdvencedLoops\EvenPowersOfTwo\bin\Debug\EvenPowersOfTwo.exe
+D:\SoftUni\AdvencedLoops\EvenPowersOfTwo\bin\Debug\EvenPowersOfTwo.pdb
+D:\SoftUni\AdvencedLoops\EvenPowersOfTwo\obj\Debug\EvenPowersOfTwo.exe
+D:\SoftUni\AdvencedLoops\EvenPowersOfTwo\obj\Debug\EvenPowersOfTwo.pdb
+D:\SoftUni\AdvencedLoops\EvenPowersOfTwo\bin\Debug\EvenPowersOfTwo.exe.CodeAnalysisLog.xml
+D:\SoftUni\AdvencedLoops\EvenPowersOfTwo\bin\Debug\EvenPowersOfTwo.exe.lastcodeanalysissucceeded
+D:\SoftUni\AdvencedLoops\EvenPowersOfTwo\obj\Debug\EvenPowersOfTwo.csprojResolveAssemblyReference.cache

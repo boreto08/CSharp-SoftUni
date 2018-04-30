@@ -1,0 +1,2 @@
+C:\Users\Filip Kolev\Desktop\7. Advanced-CSharp-Functional-Programming-Exercise-2\LinqExercise\bin\Debug\LinqExercise.exe.config
+D:\SoftUni\Linq\7. Advanced-CSharp-Functional-Programming-Exercise-2\LinqExercise\bin\Debug\LinqExercise.exe.config

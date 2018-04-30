@@ -1,0 +1,6 @@
+D:\SoftUni\Melons-and-Watermelons\Melons-and-Watermelons\bin\Debug\Melons-and-Watermelons.exe.config
+D:\SoftUni\Melons-and-Watermelons\Melons-and-Watermelons\obj\Debug\Melons-and-Watermelons.csprojResolveAssemblyReference.cache
+D:\SoftUni\Melons-and-Watermelons\Melons-and-Watermelons\bin\Debug\Melons-and-Watermelons.exe
+D:\SoftUni\Melons-and-Watermelons\Melons-and-Watermelons\bin\Debug\Melons-and-Watermelons.pdb
+D:\SoftUni\Melons-and-Watermelons\Melons-and-Watermelons\obj\Debug\Melons-and-Watermelons.exe
+D:\SoftUni\Melons-and-Watermelons\Melons-and-Watermelons\obj\Debug\Melons-and-Watermelons.pdb

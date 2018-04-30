@@ -1,0 +1,6 @@
+D:\SoftUni\WeirdCombinations\WeirdCombinations\bin\Debug\WeirdCombinations.exe.config
+D:\SoftUni\WeirdCombinations\WeirdCombinations\obj\Debug\WeirdCombinations.csprojResolveAssemblyReference.cache
+D:\SoftUni\WeirdCombinations\WeirdCombinations\bin\Debug\WeirdCombinations.exe
+D:\SoftUni\WeirdCombinations\WeirdCombinations\bin\Debug\WeirdCombinations.pdb
+D:\SoftUni\WeirdCombinations\WeirdCombinations\obj\Debug\WeirdCombinations.exe
+D:\SoftUni\WeirdCombinations\WeirdCombinations\obj\Debug\WeirdCombinations.pdb

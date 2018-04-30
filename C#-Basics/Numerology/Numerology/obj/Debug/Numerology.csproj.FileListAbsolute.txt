@@ -1,0 +1,6 @@
+D:\SoftUni\Numerology\Numerology\bin\Debug\Numerology.exe.config
+D:\SoftUni\Numerology\Numerology\bin\Debug\Numerology.exe
+D:\SoftUni\Numerology\Numerology\bin\Debug\Numerology.pdb
+D:\SoftUni\Numerology\Numerology\obj\Debug\Numerology.csprojResolveAssemblyReference.cache
+D:\SoftUni\Numerology\Numerology\obj\Debug\Numerology.exe
+D:\SoftUni\Numerology\Numerology\obj\Debug\Numerology.pdb

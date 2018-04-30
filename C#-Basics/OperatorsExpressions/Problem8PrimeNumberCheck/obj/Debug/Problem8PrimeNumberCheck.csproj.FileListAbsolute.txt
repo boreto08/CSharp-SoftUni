@@ -1,0 +1,6 @@
+D:\SoftUni\OperatorsExpressions\Problem8PrimeNumberCheck\bin\Debug\Problem8PrimeNumberCheck.exe.config
+D:\SoftUni\OperatorsExpressions\Problem8PrimeNumberCheck\bin\Debug\Problem8PrimeNumberCheck.exe
+D:\SoftUni\OperatorsExpressions\Problem8PrimeNumberCheck\bin\Debug\Problem8PrimeNumberCheck.pdb
+D:\SoftUni\OperatorsExpressions\Problem8PrimeNumberCheck\obj\Debug\Problem8PrimeNumberCheck.csprojResolveAssemblyReference.cache
+D:\SoftUni\OperatorsExpressions\Problem8PrimeNumberCheck\obj\Debug\Problem8PrimeNumberCheck.exe
+D:\SoftUni\OperatorsExpressions\Problem8PrimeNumberCheck\obj\Debug\Problem8PrimeNumberCheck.pdb

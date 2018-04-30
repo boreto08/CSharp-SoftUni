@@ -1,0 +1,6 @@
+D:\SoftUni\FruitMarket\FruitMarket\bin\Debug\FruitMarket.exe.config
+D:\SoftUni\FruitMarket\FruitMarket\bin\Debug\FruitMarket.exe
+D:\SoftUni\FruitMarket\FruitMarket\bin\Debug\FruitMarket.pdb
+D:\SoftUni\FruitMarket\FruitMarket\obj\Debug\FruitMarket.exe
+D:\SoftUni\FruitMarket\FruitMarket\obj\Debug\FruitMarket.pdb
+D:\SoftUni\FruitMarket\FruitMarket\obj\Debug\FruitMarket.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\SoftUni\Sunlight\Sunlight\bin\Debug\Sunlight.exe.config
+D:\SoftUni\Sunlight\Sunlight\bin\Debug\Sunlight.exe
+D:\SoftUni\Sunlight\Sunlight\bin\Debug\Sunlight.pdb
+D:\SoftUni\Sunlight\Sunlight\obj\Debug\Sunlight.csprojResolveAssemblyReference.cache
+D:\SoftUni\Sunlight\Sunlight\obj\Debug\Sunlight.exe
+D:\SoftUni\Sunlight\Sunlight\obj\Debug\Sunlight.pdb

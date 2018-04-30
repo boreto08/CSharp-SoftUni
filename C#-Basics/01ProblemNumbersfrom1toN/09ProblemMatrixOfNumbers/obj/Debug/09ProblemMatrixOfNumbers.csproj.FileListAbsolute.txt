@@ -1,0 +1,6 @@
+D:\SoftUni\01ProblemNumbersfrom1toN\09ProblemMatrixOfNumbers\bin\Debug\09ProblemMatrixOfNumbers.exe.config
+D:\SoftUni\01ProblemNumbersfrom1toN\09ProblemMatrixOfNumbers\obj\Debug\09ProblemMatrixOfNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\01ProblemNumbersfrom1toN\09ProblemMatrixOfNumbers\bin\Debug\09ProblemMatrixOfNumbers.exe
+D:\SoftUni\01ProblemNumbersfrom1toN\09ProblemMatrixOfNumbers\bin\Debug\09ProblemMatrixOfNumbers.pdb
+D:\SoftUni\01ProblemNumbersfrom1toN\09ProblemMatrixOfNumbers\obj\Debug\09ProblemMatrixOfNumbers.exe
+D:\SoftUni\01ProblemNumbersfrom1toN\09ProblemMatrixOfNumbers\obj\Debug\09ProblemMatrixOfNumbers.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\NakovsMatching\NakovsMatching\bin\Debug\NakovsMatching.exe.config
+D:\SoftUni\NakovsMatching\NakovsMatching\obj\Debug\NakovsMatching.csprojResolveAssemblyReference.cache
+D:\SoftUni\NakovsMatching\NakovsMatching\bin\Debug\NakovsMatching.exe
+D:\SoftUni\NakovsMatching\NakovsMatching\bin\Debug\NakovsMatching.pdb
+D:\SoftUni\NakovsMatching\NakovsMatching\obj\Debug\NakovsMatching.exe
+D:\SoftUni\NakovsMatching\NakovsMatching\obj\Debug\NakovsMatching.pdb

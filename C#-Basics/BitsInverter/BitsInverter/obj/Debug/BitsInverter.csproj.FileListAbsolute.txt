@@ -1,0 +1,6 @@
+D:\SoftUni\BitsInverter\BitsInverter\bin\Debug\BitsInverter.exe.config
+D:\SoftUni\BitsInverter\BitsInverter\bin\Debug\BitsInverter.exe
+D:\SoftUni\BitsInverter\BitsInverter\bin\Debug\BitsInverter.pdb
+D:\SoftUni\BitsInverter\BitsInverter\obj\Debug\BitsInverter.csprojResolveAssemblyReference.cache
+D:\SoftUni\BitsInverter\BitsInverter\obj\Debug\BitsInverter.exe
+D:\SoftUni\BitsInverter\BitsInverter\obj\Debug\BitsInverter.pdb

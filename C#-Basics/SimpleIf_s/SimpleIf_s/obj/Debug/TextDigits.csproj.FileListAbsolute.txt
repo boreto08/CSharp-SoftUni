@@ -1,0 +1,3 @@
+D:\SoftUni\SimpleIf_s\SimpleIf_s\bin\Debug\SimpleIf_s.exe.config
+D:\SoftUni\SimpleIf_s\SimpleIf_s\obj\Debug\SimpleIf_s.exe
+D:\SoftUni\SimpleIf_s\SimpleIf_s\obj\Debug\SimpleIf_s.pdb

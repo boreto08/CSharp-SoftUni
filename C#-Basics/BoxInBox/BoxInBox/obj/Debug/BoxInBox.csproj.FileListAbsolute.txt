@@ -1,0 +1,6 @@
+D:\SoftUni\BoxInBox\BoxInBox\bin\Debug\BoxInBox.exe.config
+D:\SoftUni\BoxInBox\BoxInBox\obj\Debug\BoxInBox.csprojResolveAssemblyReference.cache
+D:\SoftUni\BoxInBox\BoxInBox\bin\Debug\BoxInBox.exe
+D:\SoftUni\BoxInBox\BoxInBox\bin\Debug\BoxInBox.pdb
+D:\SoftUni\BoxInBox\BoxInBox\obj\Debug\BoxInBox.exe
+D:\SoftUni\BoxInBox\BoxInBox\obj\Debug\BoxInBox.pdb

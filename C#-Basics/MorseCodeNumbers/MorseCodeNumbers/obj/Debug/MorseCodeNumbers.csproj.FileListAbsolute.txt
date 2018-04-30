@@ -1,0 +1,6 @@
+D:\SoftUni\MorseCodeNumbers\MorseCodeNumbers\bin\Debug\MorseCodeNumbers.exe.config
+D:\SoftUni\MorseCodeNumbers\MorseCodeNumbers\obj\Debug\MorseCodeNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\MorseCodeNumbers\MorseCodeNumbers\bin\Debug\MorseCodeNumbers.exe
+D:\SoftUni\MorseCodeNumbers\MorseCodeNumbers\bin\Debug\MorseCodeNumbers.pdb
+D:\SoftUni\MorseCodeNumbers\MorseCodeNumbers\obj\Debug\MorseCodeNumbers.exe
+D:\SoftUni\MorseCodeNumbers\MorseCodeNumbers\obj\Debug\MorseCodeNumbers.pdb

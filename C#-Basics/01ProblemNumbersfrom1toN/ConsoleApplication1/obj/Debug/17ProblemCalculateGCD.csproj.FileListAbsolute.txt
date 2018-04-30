@@ -1,0 +1,6 @@
+D:\SoftUni\01ProblemNumbersfrom1toN\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\SoftUni\01ProblemNumbersfrom1toN\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\SoftUni\01ProblemNumbersfrom1toN\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\SoftUni\01ProblemNumbersfrom1toN\ConsoleApplication1\obj\Debug\17ProblemCalculateGCD.csprojResolveAssemblyReference.cache
+D:\SoftUni\01ProblemNumbersfrom1toN\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\SoftUni\01ProblemNumbersfrom1toN\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

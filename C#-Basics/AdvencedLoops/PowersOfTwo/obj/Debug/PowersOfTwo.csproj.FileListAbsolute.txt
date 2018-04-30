@@ -1,0 +1,8 @@
+D:\SoftUni\AdvencedLoops\PowersOfTwo\bin\Debug\PowersOfTwo.exe.config
+D:\SoftUni\AdvencedLoops\PowersOfTwo\bin\Debug\PowersOfTwo.exe
+D:\SoftUni\AdvencedLoops\PowersOfTwo\bin\Debug\PowersOfTwo.pdb
+D:\SoftUni\AdvencedLoops\PowersOfTwo\obj\Debug\PowersOfTwo.exe
+D:\SoftUni\AdvencedLoops\PowersOfTwo\obj\Debug\PowersOfTwo.pdb
+D:\SoftUni\AdvencedLoops\PowersOfTwo\bin\Debug\PowersOfTwo.exe.CodeAnalysisLog.xml
+D:\SoftUni\AdvencedLoops\PowersOfTwo\bin\Debug\PowersOfTwo.exe.lastcodeanalysissucceeded
+D:\SoftUni\AdvencedLoops\PowersOfTwo\obj\Debug\PowersOfTwo.csprojResolveAssemblyReference.cache

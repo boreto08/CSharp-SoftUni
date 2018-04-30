@@ -1,0 +1,6 @@
+D:\SoftUni\WneGlass\WneGlass\bin\Debug\WneGlass.exe.config
+D:\SoftUni\WneGlass\WneGlass\bin\Debug\WneGlass.exe
+D:\SoftUni\WneGlass\WneGlass\bin\Debug\WneGlass.pdb
+D:\SoftUni\WneGlass\WneGlass\obj\Debug\WneGlass.csprojResolveAssemblyReference.cache
+D:\SoftUni\WneGlass\WneGlass\obj\Debug\WneGlass.exe
+D:\SoftUni\WneGlass\WneGlass\obj\Debug\WneGlass.pdb

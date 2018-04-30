@@ -1,0 +1,6 @@
+D:\SoftUni\CrossingSequences\CrossingSequences\bin\Debug\CrossingSequences.exe.config
+D:\SoftUni\CrossingSequences\CrossingSequences\obj\Debug\CrossingSequences.csprojResolveAssemblyReference.cache
+D:\SoftUni\CrossingSequences\CrossingSequences\bin\Debug\CrossingSequences.exe
+D:\SoftUni\CrossingSequences\CrossingSequences\bin\Debug\CrossingSequences.pdb
+D:\SoftUni\CrossingSequences\CrossingSequences\obj\Debug\CrossingSequences.exe
+D:\SoftUni\CrossingSequences\CrossingSequences\obj\Debug\CrossingSequences.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\MagicNumsNEW\MagicNumsNEW\bin\Debug\MagicNumsNEW.exe.config
+D:\SoftUni\MagicNumsNEW\MagicNumsNEW\bin\Debug\MagicNumsNEW.exe
+D:\SoftUni\MagicNumsNEW\MagicNumsNEW\bin\Debug\MagicNumsNEW.pdb
+D:\SoftUni\MagicNumsNEW\MagicNumsNEW\obj\Debug\MagicNumsNEW.csprojResolveAssemblyReference.cache
+D:\SoftUni\MagicNumsNEW\MagicNumsNEW\obj\Debug\MagicNumsNEW.exe
+D:\SoftUni\MagicNumsNEW\MagicNumsNEW\obj\Debug\MagicNumsNEW.pdb

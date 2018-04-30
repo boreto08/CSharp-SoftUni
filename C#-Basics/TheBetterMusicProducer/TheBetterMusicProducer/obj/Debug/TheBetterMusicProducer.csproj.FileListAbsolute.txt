@@ -1,0 +1,6 @@
+D:\SoftUni\TheBetterMusicProducer\TheBetterMusicProducer\bin\Debug\TheBetterMusicProducer.exe.config
+D:\SoftUni\TheBetterMusicProducer\TheBetterMusicProducer\bin\Debug\TheBetterMusicProducer.exe
+D:\SoftUni\TheBetterMusicProducer\TheBetterMusicProducer\bin\Debug\TheBetterMusicProducer.pdb
+D:\SoftUni\TheBetterMusicProducer\TheBetterMusicProducer\obj\Debug\TheBetterMusicProducer.csprojResolveAssemblyReference.cache
+D:\SoftUni\TheBetterMusicProducer\TheBetterMusicProducer\obj\Debug\TheBetterMusicProducer.exe
+D:\SoftUni\TheBetterMusicProducer\TheBetterMusicProducer\obj\Debug\TheBetterMusicProducer.pdb

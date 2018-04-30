@@ -1,0 +1,5 @@
+D:\SoftUni\BitBuilder\BitBuilder\bin\Debug\BitBuilder.exe.config
+D:\SoftUni\BitBuilder\BitBuilder\bin\Debug\BitBuilder.exe
+D:\SoftUni\BitBuilder\BitBuilder\bin\Debug\BitBuilder.pdb
+D:\SoftUni\BitBuilder\BitBuilder\obj\Debug\BitBuilder.exe
+D:\SoftUni\BitBuilder\BitBuilder\obj\Debug\BitBuilder.pdb

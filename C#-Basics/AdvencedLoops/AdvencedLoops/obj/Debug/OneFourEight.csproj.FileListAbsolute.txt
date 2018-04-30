@@ -1,0 +1,7 @@
+D:\SoftUni\AdvencedLoops\AdvencedLoops\bin\Debug\AdvencedLoops.exe.config
+D:\SoftUni\AdvencedLoops\AdvencedLoops\bin\Debug\AdvencedLoops.exe
+D:\SoftUni\AdvencedLoops\AdvencedLoops\bin\Debug\AdvencedLoops.pdb
+D:\SoftUni\AdvencedLoops\AdvencedLoops\obj\Debug\AdvencedLoops.exe
+D:\SoftUni\AdvencedLoops\AdvencedLoops\obj\Debug\AdvencedLoops.pdb
+D:\SoftUni\AdvencedLoops\AdvencedLoops\bin\Debug\AdvencedLoops.exe.CodeAnalysisLog.xml
+D:\SoftUni\AdvencedLoops\AdvencedLoops\bin\Debug\AdvencedLoops.exe.lastcodeanalysissucceeded

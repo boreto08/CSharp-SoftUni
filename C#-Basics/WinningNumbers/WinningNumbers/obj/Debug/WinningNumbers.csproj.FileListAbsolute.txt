@@ -1,0 +1,5 @@
+D:\SoftUni\WinningNumbers\WinningNumbers\bin\Debug\WinningNumbers.exe.config
+D:\SoftUni\WinningNumbers\WinningNumbers\bin\Debug\WinningNumbers.exe
+D:\SoftUni\WinningNumbers\WinningNumbers\bin\Debug\WinningNumbers.pdb
+D:\SoftUni\WinningNumbers\WinningNumbers\obj\Debug\WinningNumbers.exe
+D:\SoftUni\WinningNumbers\WinningNumbers\obj\Debug\WinningNumbers.pdb

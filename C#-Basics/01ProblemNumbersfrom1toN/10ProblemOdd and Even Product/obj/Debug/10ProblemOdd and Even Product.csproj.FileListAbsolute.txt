@@ -1,0 +1,6 @@
+D:\SoftUni\01ProblemNumbersfrom1toN\10ProblemOdd and Even Product\bin\Debug\10ProblemOdd and Even Product.exe.config
+D:\SoftUni\01ProblemNumbersfrom1toN\10ProblemOdd and Even Product\bin\Debug\10ProblemOdd and Even Product.exe
+D:\SoftUni\01ProblemNumbersfrom1toN\10ProblemOdd and Even Product\bin\Debug\10ProblemOdd and Even Product.pdb
+D:\SoftUni\01ProblemNumbersfrom1toN\10ProblemOdd and Even Product\obj\Debug\10ProblemOdd and Even Product.csprojResolveAssemblyReference.cache
+D:\SoftUni\01ProblemNumbersfrom1toN\10ProblemOdd and Even Product\obj\Debug\10ProblemOdd and Even Product.exe
+D:\SoftUni\01ProblemNumbersfrom1toN\10ProblemOdd and Even Product\obj\Debug\10ProblemOdd and Even Product.pdb

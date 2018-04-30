@@ -1,0 +1,5 @@
+D:\SoftUni\OperatorsExpressions\Problem4Rectangles\bin\Debug\Problem4Rectangles.exe.config
+D:\SoftUni\OperatorsExpressions\Problem4Rectangles\bin\Debug\Problem4Rectangles.exe
+D:\SoftUni\OperatorsExpressions\Problem4Rectangles\bin\Debug\Problem4Rectangles.pdb
+D:\SoftUni\OperatorsExpressions\Problem4Rectangles\obj\Debug\Problem4Rectangles.exe
+D:\SoftUni\OperatorsExpressions\Problem4Rectangles\obj\Debug\Problem4Rectangles.pdb

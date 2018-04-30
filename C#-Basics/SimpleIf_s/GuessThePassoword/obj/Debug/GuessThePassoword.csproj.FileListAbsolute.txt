@@ -1,0 +1,5 @@
+D:\SoftUni\SimpleIf_s\GuessThePassoword\bin\Debug\GuessThePassoword.exe.config
+D:\SoftUni\SimpleIf_s\GuessThePassoword\bin\Debug\GuessThePassoword.exe
+D:\SoftUni\SimpleIf_s\GuessThePassoword\bin\Debug\GuessThePassoword.pdb
+D:\SoftUni\SimpleIf_s\GuessThePassoword\obj\Debug\GuessThePassoword.exe
+D:\SoftUni\SimpleIf_s\GuessThePassoword\obj\Debug\GuessThePassoword.pdb

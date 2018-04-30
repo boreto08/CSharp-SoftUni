@@ -1,0 +1,6 @@
+D:\SoftUni\FitBoxInBox\FitBoxInBox\bin\Debug\FitBoxInBox.exe.config
+D:\SoftUni\FitBoxInBox\FitBoxInBox\bin\Debug\FitBoxInBox.exe
+D:\SoftUni\FitBoxInBox\FitBoxInBox\bin\Debug\FitBoxInBox.pdb
+D:\SoftUni\FitBoxInBox\FitBoxInBox\obj\Debug\FitBoxInBox.csprojResolveAssemblyReference.cache
+D:\SoftUni\FitBoxInBox\FitBoxInBox\obj\Debug\FitBoxInBox.exe
+D:\SoftUni\FitBoxInBox\FitBoxInBox\obj\Debug\FitBoxInBox.pdb

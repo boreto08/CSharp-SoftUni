@@ -1,0 +1,6 @@
+D:\SoftUni\Gambling\Gambling\bin\Debug\Gambling.exe.config
+D:\SoftUni\Gambling\Gambling\obj\Debug\Gambling.csprojResolveAssemblyReference.cache
+D:\SoftUni\Gambling\Gambling\bin\Debug\Gambling.exe
+D:\SoftUni\Gambling\Gambling\bin\Debug\Gambling.pdb
+D:\SoftUni\Gambling\Gambling\obj\Debug\Gambling.exe
+D:\SoftUni\Gambling\Gambling\obj\Debug\Gambling.pdb

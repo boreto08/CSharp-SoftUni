@@ -1,0 +1,6 @@
+D:\SoftUni\ListsArraysAndMore\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.exe.config
+D:\SoftUni\ListsArraysAndMore\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.exe
+D:\SoftUni\ListsArraysAndMore\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.pdb
+D:\SoftUni\ListsArraysAndMore\LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.csprojResolveAssemblyReference.cache
+D:\SoftUni\ListsArraysAndMore\LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.exe
+D:\SoftUni\ListsArraysAndMore\LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.pdb

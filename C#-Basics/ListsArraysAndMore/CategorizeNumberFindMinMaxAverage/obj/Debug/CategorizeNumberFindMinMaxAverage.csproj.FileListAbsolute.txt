@@ -1,0 +1,6 @@
+D:\SoftUni\ListsArraysAndMore\CategorizeNumberFindMinMaxAverage\bin\Debug\CategorizeNumberFindMinMaxAverage.exe.config
+D:\SoftUni\ListsArraysAndMore\CategorizeNumberFindMinMaxAverage\obj\Debug\CategorizeNumberFindMinMaxAverage.csprojResolveAssemblyReference.cache
+D:\SoftUni\ListsArraysAndMore\CategorizeNumberFindMinMaxAverage\bin\Debug\CategorizeNumberFindMinMaxAverage.exe
+D:\SoftUni\ListsArraysAndMore\CategorizeNumberFindMinMaxAverage\bin\Debug\CategorizeNumberFindMinMaxAverage.pdb
+D:\SoftUni\ListsArraysAndMore\CategorizeNumberFindMinMaxAverage\obj\Debug\CategorizeNumberFindMinMaxAverage.exe
+D:\SoftUni\ListsArraysAndMore\CategorizeNumberFindMinMaxAverage\obj\Debug\CategorizeNumberFindMinMaxAverage.pdb

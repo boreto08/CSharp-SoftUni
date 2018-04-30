@@ -1,0 +1,6 @@
+D:\SoftUni\BinaryDigits\BinaryDigits\bin\Debug\BinaryDigits.exe.config
+D:\SoftUni\BinaryDigits\BinaryDigits\bin\Debug\BinaryDigits.exe
+D:\SoftUni\BinaryDigits\BinaryDigits\bin\Debug\BinaryDigits.pdb
+D:\SoftUni\BinaryDigits\BinaryDigits\obj\Debug\BinaryDigits.csprojResolveAssemblyReference.cache
+D:\SoftUni\BinaryDigits\BinaryDigits\obj\Debug\BinaryDigits.exe
+D:\SoftUni\BinaryDigits\BinaryDigits\obj\Debug\BinaryDigits.pdb

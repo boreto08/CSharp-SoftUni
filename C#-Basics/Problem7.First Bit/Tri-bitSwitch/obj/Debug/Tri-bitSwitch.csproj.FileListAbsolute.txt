@@ -1,0 +1,6 @@
+D:\SoftUni\Problem7.First Bit\Tri-bitSwitch\bin\Debug\Tri-bitSwitch.exe.config
+D:\SoftUni\Problem7.First Bit\Tri-bitSwitch\bin\Debug\Tri-bitSwitch.exe
+D:\SoftUni\Problem7.First Bit\Tri-bitSwitch\bin\Debug\Tri-bitSwitch.pdb
+D:\SoftUni\Problem7.First Bit\Tri-bitSwitch\obj\Debug\Tri-bitSwitch.csprojResolveAssemblyReference.cache
+D:\SoftUni\Problem7.First Bit\Tri-bitSwitch\obj\Debug\Tri-bitSwitch.exe
+D:\SoftUni\Problem7.First Bit\Tri-bitSwitch\obj\Debug\Tri-bitSwitch.pdb

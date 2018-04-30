@@ -1,0 +1,6 @@
+D:\SoftUni\days\days\bin\Debug\days.exe.config
+D:\SoftUni\days\days\bin\Debug\days.exe
+D:\SoftUni\days\days\bin\Debug\days.pdb
+D:\SoftUni\days\days\obj\Debug\days.csprojResolveAssemblyReference.cache
+D:\SoftUni\days\days\obj\Debug\days.exe
+D:\SoftUni\days\days\obj\Debug\days.pdb

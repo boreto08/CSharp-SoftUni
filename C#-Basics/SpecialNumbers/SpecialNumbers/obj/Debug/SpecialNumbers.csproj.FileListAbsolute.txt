@@ -1,0 +1,6 @@
+D:\SoftUni\SpecialNumbers\SpecialNumbers\bin\Debug\SpecialNumbers.exe.config
+D:\SoftUni\SpecialNumbers\SpecialNumbers\bin\Debug\SpecialNumbers.exe
+D:\SoftUni\SpecialNumbers\SpecialNumbers\bin\Debug\SpecialNumbers.pdb
+D:\SoftUni\SpecialNumbers\SpecialNumbers\obj\Debug\SpecialNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\SpecialNumbers\SpecialNumbers\obj\Debug\SpecialNumbers.exe
+D:\SoftUni\SpecialNumbers\SpecialNumbers\obj\Debug\SpecialNumbers.pdb

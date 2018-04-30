@@ -1,0 +1,5 @@
+D:\SoftUni\Methods\GetMAx\bin\Debug\GetMAx.exe.config
+D:\SoftUni\Methods\GetMAx\bin\Debug\GetMAx.exe
+D:\SoftUni\Methods\GetMAx\bin\Debug\GetMAx.pdb
+D:\SoftUni\Methods\GetMAx\obj\Debug\GetMAx.exe
+D:\SoftUni\Methods\GetMAx\obj\Debug\GetMAx.pdb

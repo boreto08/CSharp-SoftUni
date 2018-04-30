@@ -1,0 +1,6 @@
+D:\SoftUni\BeerStock\BeerStock\bin\Debug\BeerStock.exe.config
+D:\SoftUni\BeerStock\BeerStock\bin\Debug\BeerStock.exe
+D:\SoftUni\BeerStock\BeerStock\bin\Debug\BeerStock.pdb
+D:\SoftUni\BeerStock\BeerStock\obj\Debug\BeerStock.csprojResolveAssemblyReference.cache
+D:\SoftUni\BeerStock\BeerStock\obj\Debug\BeerStock.exe
+D:\SoftUni\BeerStock\BeerStock\obj\Debug\BeerStock.pdb

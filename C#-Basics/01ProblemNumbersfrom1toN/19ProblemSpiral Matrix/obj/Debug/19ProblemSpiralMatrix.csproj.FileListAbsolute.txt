@@ -1,0 +1,6 @@
+D:\SoftUni\01ProblemNumbersfrom1toN\19ProblemSpiral Matrix\bin\Debug\19ProblemSpiral Matrix.exe.config
+D:\SoftUni\01ProblemNumbersfrom1toN\19ProblemSpiral Matrix\bin\Debug\19ProblemSpiral Matrix.exe
+D:\SoftUni\01ProblemNumbersfrom1toN\19ProblemSpiral Matrix\bin\Debug\19ProblemSpiral Matrix.pdb
+D:\SoftUni\01ProblemNumbersfrom1toN\19ProblemSpiral Matrix\obj\Debug\19ProblemSpiralMatrix.csprojResolveAssemblyReference.cache
+D:\SoftUni\01ProblemNumbersfrom1toN\19ProblemSpiral Matrix\obj\Debug\19ProblemSpiral Matrix.exe
+D:\SoftUni\01ProblemNumbersfrom1toN\19ProblemSpiral Matrix\obj\Debug\19ProblemSpiral Matrix.pdb

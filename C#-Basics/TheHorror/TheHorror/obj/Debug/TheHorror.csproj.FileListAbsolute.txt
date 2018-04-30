@@ -1,0 +1,5 @@
+D:\SoftUni\TheHorror\TheHorror\bin\Debug\TheHorror.exe.config
+D:\SoftUni\TheHorror\TheHorror\bin\Debug\TheHorror.exe
+D:\SoftUni\TheHorror\TheHorror\bin\Debug\TheHorror.pdb
+D:\SoftUni\TheHorror\TheHorror\obj\Debug\TheHorror.exe
+D:\SoftUni\TheHorror\TheHorror\obj\Debug\TheHorror.pdb

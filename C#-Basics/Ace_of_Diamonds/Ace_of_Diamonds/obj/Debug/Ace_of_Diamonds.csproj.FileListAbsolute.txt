@@ -1,0 +1,6 @@
+D:\SoftUni\Ace_of_Diamonds\Ace_of_Diamonds\bin\Debug\Ace_of_Diamonds.exe.config
+D:\SoftUni\Ace_of_Diamonds\Ace_of_Diamonds\bin\Debug\Ace_of_Diamonds.exe
+D:\SoftUni\Ace_of_Diamonds\Ace_of_Diamonds\bin\Debug\Ace_of_Diamonds.pdb
+D:\SoftUni\Ace_of_Diamonds\Ace_of_Diamonds\obj\Debug\Ace_of_Diamonds.csprojResolveAssemblyReference.cache
+D:\SoftUni\Ace_of_Diamonds\Ace_of_Diamonds\obj\Debug\Ace_of_Diamonds.exe
+D:\SoftUni\Ace_of_Diamonds\Ace_of_Diamonds\obj\Debug\Ace_of_Diamonds.pdb

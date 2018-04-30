@@ -1,0 +1,6 @@
+D:\SoftUni\SaltAndPepper\SaltAndPepper\bin\Debug\SaltAndPepper.exe.config
+D:\SoftUni\SaltAndPepper\SaltAndPepper\bin\Debug\SaltAndPepper.exe
+D:\SoftUni\SaltAndPepper\SaltAndPepper\bin\Debug\SaltAndPepper.pdb
+D:\SoftUni\SaltAndPepper\SaltAndPepper\obj\Debug\SaltAndPepper.csprojResolveAssemblyReference.cache
+D:\SoftUni\SaltAndPepper\SaltAndPepper\obj\Debug\SaltAndPepper.exe
+D:\SoftUni\SaltAndPepper\SaltAndPepper\obj\Debug\SaltAndPepper.pdb

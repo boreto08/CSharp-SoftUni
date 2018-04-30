@@ -1,0 +1,6 @@
+D:\SoftUni\ListsArraysAndMore\JoinLists\bin\Debug\JoinLists.exe.config
+D:\SoftUni\ListsArraysAndMore\JoinLists\bin\Debug\JoinLists.exe
+D:\SoftUni\ListsArraysAndMore\JoinLists\bin\Debug\JoinLists.pdb
+D:\SoftUni\ListsArraysAndMore\JoinLists\obj\Debug\JoinLists.exe
+D:\SoftUni\ListsArraysAndMore\JoinLists\obj\Debug\JoinLists.pdb
+D:\SoftUni\ListsArraysAndMore\JoinLists\obj\Debug\JoinLists.csprojResolveAssemblyReference.cache

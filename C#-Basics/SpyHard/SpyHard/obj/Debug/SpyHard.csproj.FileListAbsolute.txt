@@ -1,0 +1,6 @@
+D:\SoftUni\SpyHard\SpyHard\bin\Debug\SpyHard.exe.config
+D:\SoftUni\SpyHard\SpyHard\bin\Debug\SpyHard.exe
+D:\SoftUni\SpyHard\SpyHard\bin\Debug\SpyHard.pdb
+D:\SoftUni\SpyHard\SpyHard\obj\Debug\SpyHard.csprojResolveAssemblyReference.cache
+D:\SoftUni\SpyHard\SpyHard\obj\Debug\SpyHard.exe
+D:\SoftUni\SpyHard\SpyHard\obj\Debug\SpyHard.pdb

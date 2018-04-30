@@ -1,0 +1,6 @@
+D:\SoftUni\MasterHerbalist\MasterHerbalist\bin\Debug\MasterHerbalist.exe.config
+D:\SoftUni\MasterHerbalist\MasterHerbalist\bin\Debug\MasterHerbalist.exe
+D:\SoftUni\MasterHerbalist\MasterHerbalist\bin\Debug\MasterHerbalist.pdb
+D:\SoftUni\MasterHerbalist\MasterHerbalist\obj\Debug\MasterHerbalist.csprojResolveAssemblyReference.cache
+D:\SoftUni\MasterHerbalist\MasterHerbalist\obj\Debug\MasterHerbalist.exe
+D:\SoftUni\MasterHerbalist\MasterHerbalist\obj\Debug\MasterHerbalist.pdb

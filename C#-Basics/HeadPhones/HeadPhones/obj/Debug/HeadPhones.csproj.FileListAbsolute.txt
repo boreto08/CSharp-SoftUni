@@ -1,0 +1,6 @@
+D:\SoftUni\HeadPhones\HeadPhones\bin\Debug\HeadPhones.exe.config
+D:\SoftUni\HeadPhones\HeadPhones\obj\Debug\HeadPhones.csprojResolveAssemblyReference.cache
+D:\SoftUni\HeadPhones\HeadPhones\bin\Debug\HeadPhones.exe
+D:\SoftUni\HeadPhones\HeadPhones\bin\Debug\HeadPhones.pdb
+D:\SoftUni\HeadPhones\HeadPhones\obj\Debug\HeadPhones.exe
+D:\SoftUni\HeadPhones\HeadPhones\obj\Debug\HeadPhones.pdb

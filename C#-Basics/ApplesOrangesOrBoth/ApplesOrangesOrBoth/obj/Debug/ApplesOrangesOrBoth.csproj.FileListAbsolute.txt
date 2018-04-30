@@ -1,0 +1,5 @@
+D:\SoftUni\ApplesOrangesOrBoth\ApplesOrangesOrBoth\bin\Debug\ApplesOrangesOrBoth.exe.config
+D:\SoftUni\ApplesOrangesOrBoth\ApplesOrangesOrBoth\bin\Debug\ApplesOrangesOrBoth.exe
+D:\SoftUni\ApplesOrangesOrBoth\ApplesOrangesOrBoth\bin\Debug\ApplesOrangesOrBoth.pdb
+D:\SoftUni\ApplesOrangesOrBoth\ApplesOrangesOrBoth\obj\Debug\ApplesOrangesOrBoth.exe
+D:\SoftUni\ApplesOrangesOrBoth\ApplesOrangesOrBoth\obj\Debug\ApplesOrangesOrBoth.pdb

@@ -1,0 +1,14 @@
+D:\SoftUni\CalculateV-S-P\CalculateV-S-P\bin\Debug\CalculateV-S-P.exe.config
+D:\SoftUni\CalculateV-S-P\CalculateV-S-P\bin\Debug\CalculateV-S-P.exe
+D:\SoftUni\CalculateV-S-P\CalculateV-S-P\bin\Debug\CalculateV-S-P.pdb
+D:\SoftUni\CalculateV-S-P\CalculateV-S-P\bin\Debug\CalculateV-S-P.xml
+D:\SoftUni\CalculateV-S-P\CalculateV-S-P\obj\Debug\CalculateV_S_P.Form1.resources
+D:\SoftUni\CalculateV-S-P\CalculateV-S-P\obj\Debug\CalculateV_S_P.Resources.resources
+D:\SoftUni\CalculateV-S-P\CalculateV-S-P\obj\Debug\CalculateV-S-P.vbproj.GenerateResource.Cache
+D:\SoftUni\CalculateV-S-P\CalculateV-S-P\obj\Debug\CalculateV-S-P.exe
+D:\SoftUni\CalculateV-S-P\CalculateV-S-P\obj\Debug\CalculateV-S-P.xml
+D:\SoftUni\CalculateV-S-P\CalculateV-S-P\obj\Debug\CalculateV-S-P.pdb
+D:\SoftUni\CalculateV-S-P\CalculateV-S-P\obj\Debug\CalculateV_S_P.Form2.resources
+D:\SoftUni\CalculateV-S-P\CalculateV-S-P\obj\Debug\CalculateV_S_P.Form3.resources
+D:\SoftUni\CalculateV-S-P\CalculateV-S-P\obj\Debug\CalculateV_S_P.Form4.resources
+D:\SoftUni\CalculateV-S-P\CalculateV-S-P\obj\Debug\CalculateV_S_P.Form5.resources

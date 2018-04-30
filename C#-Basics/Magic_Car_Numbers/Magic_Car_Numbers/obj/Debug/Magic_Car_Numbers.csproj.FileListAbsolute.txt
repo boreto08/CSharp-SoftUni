@@ -1,0 +1,6 @@
+D:\SoftUni\Magic_Car_Numbers\Magic_Car_Numbers\bin\Debug\Magic_Car_Numbers.exe.config
+D:\SoftUni\Magic_Car_Numbers\Magic_Car_Numbers\obj\Debug\Magic_Car_Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Magic_Car_Numbers\Magic_Car_Numbers\bin\Debug\Magic_Car_Numbers.exe
+D:\SoftUni\Magic_Car_Numbers\Magic_Car_Numbers\bin\Debug\Magic_Car_Numbers.pdb
+D:\SoftUni\Magic_Car_Numbers\Magic_Car_Numbers\obj\Debug\Magic_Car_Numbers.exe
+D:\SoftUni\Magic_Car_Numbers\Magic_Car_Numbers\obj\Debug\Magic_Car_Numbers.pdb

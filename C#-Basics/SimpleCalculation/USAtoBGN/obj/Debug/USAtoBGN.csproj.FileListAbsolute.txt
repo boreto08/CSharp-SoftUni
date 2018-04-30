@@ -1,0 +1,5 @@
+D:\SoftUni\SimpleCalculation\USAtoBGN\bin\Debug\USAtoBGN.exe.config
+D:\SoftUni\SimpleCalculation\USAtoBGN\bin\Debug\USAtoBGN.exe
+D:\SoftUni\SimpleCalculation\USAtoBGN\bin\Debug\USAtoBGN.pdb
+D:\SoftUni\SimpleCalculation\USAtoBGN\obj\Debug\USAtoBGN.exe
+D:\SoftUni\SimpleCalculation\USAtoBGN\obj\Debug\USAtoBGN.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Petar'sGame\Petar'sGame\bin\Debug\Petar'sGame.exe.config
+D:\SoftUni\Petar'sGame\Petar'sGame\obj\Debug\Petar'sGame.csprojResolveAssemblyReference.cache
+D:\SoftUni\Petar'sGame\Petar'sGame\bin\Debug\Petar'sGame.exe
+D:\SoftUni\Petar'sGame\Petar'sGame\bin\Debug\Petar'sGame.pdb
+D:\SoftUni\Petar'sGame\Petar'sGame\obj\Debug\Petar'sGame.exe
+D:\SoftUni\Petar'sGame\Petar'sGame\obj\Debug\Petar'sGame.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\SimpleIf_s\Tasks\bin\Debug\Tasks.exe.config
+D:\SoftUni\SimpleIf_s\Tasks\obj\Debug\Tasks.csprojResolveAssemblyReference.cache
+D:\SoftUni\SimpleIf_s\Tasks\bin\Debug\Tasks.exe
+D:\SoftUni\SimpleIf_s\Tasks\bin\Debug\Tasks.pdb
+D:\SoftUni\SimpleIf_s\Tasks\obj\Debug\Tasks.exe
+D:\SoftUni\SimpleIf_s\Tasks\obj\Debug\Tasks.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Problem7.First Bit\BitExchangeAdvanced\bin\Debug\BitExchangeAdvanced.exe.config
+D:\SoftUni\Problem7.First Bit\BitExchangeAdvanced\obj\Debug\BitExchangeAdvanced.csprojResolveAssemblyReference.cache
+D:\SoftUni\Problem7.First Bit\BitExchangeAdvanced\bin\Debug\BitExchangeAdvanced.exe
+D:\SoftUni\Problem7.First Bit\BitExchangeAdvanced\bin\Debug\BitExchangeAdvanced.pdb
+D:\SoftUni\Problem7.First Bit\BitExchangeAdvanced\obj\Debug\BitExchangeAdvanced.exe
+D:\SoftUni\Problem7.First Bit\BitExchangeAdvanced\obj\Debug\BitExchangeAdvanced.pdb

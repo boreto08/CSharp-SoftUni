@@ -1,0 +1,6 @@
+D:\SoftUni\LoopsHomework\Task-09Book\bin\Debug\Task-09Book.exe.config
+D:\SoftUni\LoopsHomework\Task-09Book\bin\Debug\Task-09Book.exe
+D:\SoftUni\LoopsHomework\Task-09Book\bin\Debug\Task-09Book.pdb
+D:\SoftUni\LoopsHomework\Task-09Book\obj\Debug\Task-09Book.csprojResolveAssemblyReference.cache
+D:\SoftUni\LoopsHomework\Task-09Book\obj\Debug\Task-09Book.exe
+D:\SoftUni\LoopsHomework\Task-09Book\obj\Debug\Task-09Book.pdb

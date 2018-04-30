@@ -1,0 +1,6 @@
+D:\SoftUni\EncodedAnswers\EncodedAnswers\bin\Debug\EncodedAnswers.exe.config
+D:\SoftUni\EncodedAnswers\EncodedAnswers\bin\Debug\EncodedAnswers.exe
+D:\SoftUni\EncodedAnswers\EncodedAnswers\bin\Debug\EncodedAnswers.pdb
+D:\SoftUni\EncodedAnswers\EncodedAnswers\obj\Debug\EncodedAnswers.exe
+D:\SoftUni\EncodedAnswers\EncodedAnswers\obj\Debug\EncodedAnswers.pdb
+D:\SoftUni\EncodedAnswers\EncodedAnswers\obj\Debug\EncodedAnswers.csprojResolveAssemblyReference.cache

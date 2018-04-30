@@ -1,0 +1,6 @@
+D:\SoftUni\Tribonacci\Tribonacci\bin\Debug\Tribonacci.exe.config
+D:\SoftUni\Tribonacci\Tribonacci\obj\Debug\Tribonacci.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tribonacci\Tribonacci\bin\Debug\Tribonacci.exe
+D:\SoftUni\Tribonacci\Tribonacci\bin\Debug\Tribonacci.pdb
+D:\SoftUni\Tribonacci\Tribonacci\obj\Debug\Tribonacci.exe
+D:\SoftUni\Tribonacci\Tribonacci\obj\Debug\Tribonacci.pdb

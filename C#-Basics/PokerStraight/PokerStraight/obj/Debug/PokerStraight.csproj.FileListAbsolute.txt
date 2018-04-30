@@ -1,0 +1,6 @@
+D:\SoftUni\PokerStraight\PokerStraight\bin\Debug\PokerStraight.exe.config
+D:\SoftUni\PokerStraight\PokerStraight\obj\Debug\PokerStraight.csprojResolveAssemblyReference.cache
+D:\SoftUni\PokerStraight\PokerStraight\bin\Debug\PokerStraight.exe
+D:\SoftUni\PokerStraight\PokerStraight\bin\Debug\PokerStraight.pdb
+D:\SoftUni\PokerStraight\PokerStraight\obj\Debug\PokerStraight.exe
+D:\SoftUni\PokerStraight\PokerStraight\obj\Debug\PokerStraight.pdb

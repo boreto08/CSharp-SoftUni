@@ -1,0 +1,6 @@
+D:\SoftUni\BohemchoTheBadGhost\BohemchoTheBadGhost\bin\Debug\BohemchoTheBadGhost.exe.config
+D:\SoftUni\BohemchoTheBadGhost\BohemchoTheBadGhost\obj\Debug\BohemchoTheBadGhost.csprojResolveAssemblyReference.cache
+D:\SoftUni\BohemchoTheBadGhost\BohemchoTheBadGhost\bin\Debug\BohemchoTheBadGhost.exe
+D:\SoftUni\BohemchoTheBadGhost\BohemchoTheBadGhost\bin\Debug\BohemchoTheBadGhost.pdb
+D:\SoftUni\BohemchoTheBadGhost\BohemchoTheBadGhost\obj\Debug\BohemchoTheBadGhost.exe
+D:\SoftUni\BohemchoTheBadGhost\BohemchoTheBadGhost\obj\Debug\BohemchoTheBadGhost.pdb

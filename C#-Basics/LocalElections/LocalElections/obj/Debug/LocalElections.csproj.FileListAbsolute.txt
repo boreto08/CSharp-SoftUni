@@ -1,0 +1,6 @@
+D:\SoftUni\LocalElections\LocalElections\bin\Debug\LocalElections.exe.config
+D:\SoftUni\LocalElections\LocalElections\obj\Debug\LocalElections.csprojResolveAssemblyReference.cache
+D:\SoftUni\LocalElections\LocalElections\bin\Debug\LocalElections.exe
+D:\SoftUni\LocalElections\LocalElections\bin\Debug\LocalElections.pdb
+D:\SoftUni\LocalElections\LocalElections\obj\Debug\LocalElections.exe
+D:\SoftUni\LocalElections\LocalElections\obj\Debug\LocalElections.pdb

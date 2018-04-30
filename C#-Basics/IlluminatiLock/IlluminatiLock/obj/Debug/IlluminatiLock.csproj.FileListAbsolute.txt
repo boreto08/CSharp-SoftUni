@@ -1,0 +1,12 @@
+D:\SoftUni\IlluminatiLock\IlluminatiLock\bin\Debug\IlluminatiLock.exe.config
+D:\SoftUni\IlluminatiLock\IlluminatiLock\bin\Debug\IlluminatiLock.exe
+D:\SoftUni\IlluminatiLock\IlluminatiLock\bin\Debug\IlluminatiLock.pdb
+D:\SoftUni\IlluminatiLock\IlluminatiLock\obj\Debug\IlluminatiLock.csprojResolveAssemblyReference.cache
+D:\SoftUni\IlluminatiLock\IlluminatiLock\obj\Debug\IlluminatiLock.exe
+D:\SoftUni\IlluminatiLock\IlluminatiLock\obj\Debug\IlluminatiLock.pdb
+D:\softuniPZ\SoftUni\IlluminatiLock\IlluminatiLock\bin\Debug\IlluminatiLock.exe.config
+D:\softuniPZ\SoftUni\IlluminatiLock\IlluminatiLock\obj\Debug\IlluminatiLock.exe
+D:\softuniPZ\SoftUni\IlluminatiLock\IlluminatiLock\obj\Debug\IlluminatiLock.pdb
+D:\softuniPZ\SoftUni\IlluminatiLock\IlluminatiLock\bin\Debug\IlluminatiLock.exe
+D:\softuniPZ\SoftUni\IlluminatiLock\IlluminatiLock\bin\Debug\IlluminatiLock.pdb
+D:\softuniPZ\SoftUni\IlluminatiLock\IlluminatiLock\obj\Debug\IlluminatiLock.csprojResolveAssemblyReference.cache

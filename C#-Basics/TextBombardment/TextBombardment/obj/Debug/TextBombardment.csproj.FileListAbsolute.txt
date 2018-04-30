@@ -1,0 +1,6 @@
+D:\SoftUni\TextBombardment\TextBombardment\bin\Debug\TextBombardment.exe.config
+D:\SoftUni\TextBombardment\TextBombardment\obj\Debug\TextBombardment.csprojResolveAssemblyReference.cache
+D:\SoftUni\TextBombardment\TextBombardment\bin\Debug\TextBombardment.exe
+D:\SoftUni\TextBombardment\TextBombardment\bin\Debug\TextBombardment.pdb
+D:\SoftUni\TextBombardment\TextBombardment\obj\Debug\TextBombardment.exe
+D:\SoftUni\TextBombardment\TextBombardment\obj\Debug\TextBombardment.pdb

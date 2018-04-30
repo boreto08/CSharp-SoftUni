@@ -1,0 +1,6 @@
+D:\SoftUni\Student _Cables\Student _Cables\bin\Debug\Student _Cables.exe.config
+D:\SoftUni\Student _Cables\Student _Cables\bin\Debug\Student _Cables.exe
+D:\SoftUni\Student _Cables\Student _Cables\bin\Debug\Student _Cables.pdb
+D:\SoftUni\Student _Cables\Student _Cables\obj\Debug\Student _Cables.csprojResolveAssemblyReference.cache
+D:\SoftUni\Student _Cables\Student _Cables\obj\Debug\Student _Cables.exe
+D:\SoftUni\Student _Cables\Student _Cables\obj\Debug\Student _Cables.pdb

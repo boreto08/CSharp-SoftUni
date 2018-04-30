@@ -1,0 +1,6 @@
+D:\SoftUni\SumOfElements\SumOfElements\bin\Debug\SumOfElements.exe.config
+D:\SoftUni\SumOfElements\SumOfElements\bin\Debug\SumOfElements.exe
+D:\SoftUni\SumOfElements\SumOfElements\bin\Debug\SumOfElements.pdb
+D:\SoftUni\SumOfElements\SumOfElements\obj\Debug\SumOfElements.exe
+D:\SoftUni\SumOfElements\SumOfElements\obj\Debug\SumOfElements.pdb
+D:\SoftUni\SumOfElements\SumOfElements\obj\Debug\SumOfElements.csprojResolveAssemblyReference.cache

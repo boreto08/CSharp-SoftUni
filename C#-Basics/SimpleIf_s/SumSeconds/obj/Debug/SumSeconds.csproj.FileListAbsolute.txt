@@ -1,0 +1,6 @@
+D:\SoftUni\SimpleIf_s\SumSeconds\bin\Debug\SumSeconds.exe.config
+D:\SoftUni\SimpleIf_s\SumSeconds\bin\Debug\SumSeconds.exe
+D:\SoftUni\SimpleIf_s\SumSeconds\bin\Debug\SumSeconds.pdb
+D:\SoftUni\SimpleIf_s\SumSeconds\obj\Debug\SumSeconds.exe
+D:\SoftUni\SimpleIf_s\SumSeconds\obj\Debug\SumSeconds.pdb
+D:\SoftUni\SimpleIf_s\SumSeconds\obj\Debug\SumSeconds.csprojResolveAssemblyReference.cache

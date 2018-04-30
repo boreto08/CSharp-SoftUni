@@ -1,0 +1,6 @@
+D:\SoftUni\8November\8November\obj\Debug\Magic Car Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\8November\8November\bin\Debug\8November.exe.config
+D:\SoftUni\8November\8November\bin\Debug\8November.exe
+D:\SoftUni\8November\8November\bin\Debug\8November.pdb
+D:\SoftUni\8November\8November\obj\Debug\8November.exe
+D:\SoftUni\8November\8November\obj\Debug\8November.pdb

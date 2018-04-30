@@ -1,0 +1,6 @@
+D:\SoftUni\ProspectInHospitality\ProspectInHospitality\bin\Debug\ProspectInHospitality.exe.config
+D:\SoftUni\ProspectInHospitality\ProspectInHospitality\obj\Debug\ProspectInHospitality.csprojResolveAssemblyReference.cache
+D:\SoftUni\ProspectInHospitality\ProspectInHospitality\bin\Debug\ProspectInHospitality.exe
+D:\SoftUni\ProspectInHospitality\ProspectInHospitality\bin\Debug\ProspectInHospitality.pdb
+D:\SoftUni\ProspectInHospitality\ProspectInHospitality\obj\Debug\ProspectInHospitality.exe
+D:\SoftUni\ProspectInHospitality\ProspectInHospitality\obj\Debug\ProspectInHospitality.pdb

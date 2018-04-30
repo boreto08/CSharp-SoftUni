@@ -1,0 +1,6 @@
+D:\SoftUni\PandaFlag\PandaFlag\bin\Debug\PandaFlag.exe.config
+D:\SoftUni\PandaFlag\PandaFlag\obj\Debug\PandaFlag.csprojResolveAssemblyReference.cache
+D:\SoftUni\PandaFlag\PandaFlag\bin\Debug\PandaFlag.exe
+D:\SoftUni\PandaFlag\PandaFlag\bin\Debug\PandaFlag.pdb
+D:\SoftUni\PandaFlag\PandaFlag\obj\Debug\PandaFlag.exe
+D:\SoftUni\PandaFlag\PandaFlag\obj\Debug\PandaFlag.pdb

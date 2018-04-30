@@ -1,0 +1,6 @@
+D:\SoftUni\Bits_at_Crossroads\Bits_at_Crossroads\bin\Debug\Bits_at_Crossroads.exe.config
+D:\SoftUni\Bits_at_Crossroads\Bits_at_Crossroads\obj\Debug\Bits_at_Crossroads.csprojResolveAssemblyReference.cache
+D:\SoftUni\Bits_at_Crossroads\Bits_at_Crossroads\bin\Debug\Bits_at_Crossroads.exe
+D:\SoftUni\Bits_at_Crossroads\Bits_at_Crossroads\bin\Debug\Bits_at_Crossroads.pdb
+D:\SoftUni\Bits_at_Crossroads\Bits_at_Crossroads\obj\Debug\Bits_at_Crossroads.exe
+D:\SoftUni\Bits_at_Crossroads\Bits_at_Crossroads\obj\Debug\Bits_at_Crossroads.pdb

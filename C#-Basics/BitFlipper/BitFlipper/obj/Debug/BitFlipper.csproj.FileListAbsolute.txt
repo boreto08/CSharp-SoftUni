@@ -1,0 +1,6 @@
+D:\SoftUni\BitFlipper\BitFlipper\bin\Debug\BitFlipper.exe.config
+D:\SoftUni\BitFlipper\BitFlipper\obj\Debug\BitFlipper.csprojResolveAssemblyReference.cache
+D:\SoftUni\BitFlipper\BitFlipper\bin\Debug\BitFlipper.exe
+D:\SoftUni\BitFlipper\BitFlipper\bin\Debug\BitFlipper.pdb
+D:\SoftUni\BitFlipper\BitFlipper\obj\Debug\BitFlipper.exe
+D:\SoftUni\BitFlipper\BitFlipper\obj\Debug\BitFlipper.pdb

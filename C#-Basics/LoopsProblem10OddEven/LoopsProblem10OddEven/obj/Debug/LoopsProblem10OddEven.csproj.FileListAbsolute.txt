@@ -1,0 +1,6 @@
+D:\SoftUni\LoopsProblem10OddEven\LoopsProblem10OddEven\bin\Debug\LoopsProblem10OddEven.exe.config
+D:\SoftUni\LoopsProblem10OddEven\LoopsProblem10OddEven\obj\Debug\LoopsProblem10OddEven.csprojResolveAssemblyReference.cache
+D:\SoftUni\LoopsProblem10OddEven\LoopsProblem10OddEven\bin\Debug\LoopsProblem10OddEven.exe
+D:\SoftUni\LoopsProblem10OddEven\LoopsProblem10OddEven\bin\Debug\LoopsProblem10OddEven.pdb
+D:\SoftUni\LoopsProblem10OddEven\LoopsProblem10OddEven\obj\Debug\LoopsProblem10OddEven.exe
+D:\SoftUni\LoopsProblem10OddEven\LoopsProblem10OddEven\obj\Debug\LoopsProblem10OddEven.pdb

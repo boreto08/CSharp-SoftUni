@@ -1,0 +1,5 @@
+D:\SoftUni\OperatorsExpressions\Problem13CheckBitGivenPosition\bin\Debug\Problem13CheckBitGivenPosition.exe.config
+D:\SoftUni\OperatorsExpressions\Problem13CheckBitGivenPosition\bin\Debug\Problem13CheckBitGivenPosition.exe
+D:\SoftUni\OperatorsExpressions\Problem13CheckBitGivenPosition\bin\Debug\Problem13CheckBitGivenPosition.pdb
+D:\SoftUni\OperatorsExpressions\Problem13CheckBitGivenPosition\obj\Debug\Problem13CheckBitGivenPosition.exe
+D:\SoftUni\OperatorsExpressions\Problem13CheckBitGivenPosition\obj\Debug\Problem13CheckBitGivenPosition.pdb

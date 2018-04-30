@@ -1,0 +1,5 @@
+D:\SoftUni\OperatorsExpressions\Problem5Third Digit is 7\bin\Debug\Problem5Third Digit is 7.exe.config
+D:\SoftUni\OperatorsExpressions\Problem5Third Digit is 7\bin\Debug\Problem5Third Digit is 7.exe
+D:\SoftUni\OperatorsExpressions\Problem5Third Digit is 7\bin\Debug\Problem5Third Digit is 7.pdb
+D:\SoftUni\OperatorsExpressions\Problem5Third Digit is 7\obj\Debug\Problem5Third Digit is 7.exe
+D:\SoftUni\OperatorsExpressions\Problem5Third Digit is 7\obj\Debug\Problem5Third Digit is 7.pdb

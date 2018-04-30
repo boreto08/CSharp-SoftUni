@@ -1,0 +1,5 @@
+D:\SoftUni\OperatorsExpressions\Problem3Divide7and5\bin\Debug\Problem3Divide7and5.exe.config
+D:\SoftUni\OperatorsExpressions\Problem3Divide7and5\bin\Debug\Problem3Divide7and5.exe
+D:\SoftUni\OperatorsExpressions\Problem3Divide7and5\bin\Debug\Problem3Divide7and5.pdb
+D:\SoftUni\OperatorsExpressions\Problem3Divide7and5\obj\Debug\Problem3Divide7and5.exe
+D:\SoftUni\OperatorsExpressions\Problem3Divide7and5\obj\Debug\Problem3Divide7and5.pdb

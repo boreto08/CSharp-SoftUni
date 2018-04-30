@@ -1,0 +1,6 @@
+D:\SoftUni\Plane\Plane\bin\Debug\Plane.exe.config
+D:\SoftUni\Plane\Plane\obj\Debug\Plane.csprojResolveAssemblyReference.cache
+D:\SoftUni\Plane\Plane\bin\Debug\Plane.exe
+D:\SoftUni\Plane\Plane\bin\Debug\Plane.pdb
+D:\SoftUni\Plane\Plane\obj\Debug\Plane.exe
+D:\SoftUni\Plane\Plane\obj\Debug\Plane.pdb

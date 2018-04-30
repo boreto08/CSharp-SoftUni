@@ -1,0 +1,6 @@
+D:\SoftUni\SummertimeForProgrammers\SummertimeForProgrammers\bin\Debug\SummertimeForProgrammers.exe.config
+D:\SoftUni\SummertimeForProgrammers\SummertimeForProgrammers\bin\Debug\SummertimeForProgrammers.exe
+D:\SoftUni\SummertimeForProgrammers\SummertimeForProgrammers\bin\Debug\SummertimeForProgrammers.pdb
+D:\SoftUni\SummertimeForProgrammers\SummertimeForProgrammers\obj\Debug\SummertimeForProgrammers.csprojResolveAssemblyReference.cache
+D:\SoftUni\SummertimeForProgrammers\SummertimeForProgrammers\obj\Debug\SummertimeForProgrammers.exe
+D:\SoftUni\SummertimeForProgrammers\SummertimeForProgrammers\obj\Debug\SummertimeForProgrammers.pdb

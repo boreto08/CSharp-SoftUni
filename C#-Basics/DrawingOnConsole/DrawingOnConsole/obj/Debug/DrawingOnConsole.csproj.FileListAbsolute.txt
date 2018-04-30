@@ -1,0 +1,6 @@
+D:\SoftUni\DrawingOnConsole\DrawingOnConsole\bin\Debug\DrawingOnConsole.exe.config
+D:\SoftUni\DrawingOnConsole\DrawingOnConsole\bin\Debug\DrawingOnConsole.exe
+D:\SoftUni\DrawingOnConsole\DrawingOnConsole\bin\Debug\DrawingOnConsole.pdb
+D:\SoftUni\DrawingOnConsole\DrawingOnConsole\obj\Debug\DrawingOnConsole.csprojResolveAssemblyReference.cache
+D:\SoftUni\DrawingOnConsole\DrawingOnConsole\obj\Debug\DrawingOnConsole.exe
+D:\SoftUni\DrawingOnConsole\DrawingOnConsole\obj\Debug\DrawingOnConsole.pdb

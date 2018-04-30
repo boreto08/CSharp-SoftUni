@@ -1,0 +1,6 @@
+D:\SoftUni\BitLock\BitLock\bin\Debug\BitLock.exe.config
+D:\SoftUni\BitLock\BitLock\obj\Debug\BitLock.csprojResolveAssemblyReference.cache
+D:\SoftUni\BitLock\BitLock\bin\Debug\BitLock.exe
+D:\SoftUni\BitLock\BitLock\bin\Debug\BitLock.pdb
+D:\SoftUni\BitLock\BitLock\obj\Debug\BitLock.exe
+D:\SoftUni\BitLock\BitLock\obj\Debug\BitLock.pdb

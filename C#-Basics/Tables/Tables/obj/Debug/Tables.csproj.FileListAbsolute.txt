@@ -1,0 +1,6 @@
+D:\SoftUni\Tables\Tables\bin\Debug\Tables.exe.config
+D:\SoftUni\Tables\Tables\bin\Debug\Tables.exe
+D:\SoftUni\Tables\Tables\bin\Debug\Tables.pdb
+D:\SoftUni\Tables\Tables\obj\Debug\Tables.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tables\Tables\obj\Debug\Tables.exe
+D:\SoftUni\Tables\Tables\obj\Debug\Tables.pdb

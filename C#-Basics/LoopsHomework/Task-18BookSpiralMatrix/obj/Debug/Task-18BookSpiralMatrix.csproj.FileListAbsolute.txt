@@ -1,0 +1,6 @@
+D:\SoftUni\LoopsHomework\Task-18BookSpiralMatrix\bin\Debug\Task-18BookSpiralMatrix.exe.config
+D:\SoftUni\LoopsHomework\Task-18BookSpiralMatrix\bin\Debug\Task-18BookSpiralMatrix.exe
+D:\SoftUni\LoopsHomework\Task-18BookSpiralMatrix\bin\Debug\Task-18BookSpiralMatrix.pdb
+D:\SoftUni\LoopsHomework\Task-18BookSpiralMatrix\obj\Debug\Task-18BookSpiralMatrix.csprojResolveAssemblyReference.cache
+D:\SoftUni\LoopsHomework\Task-18BookSpiralMatrix\obj\Debug\Task-18BookSpiralMatrix.exe
+D:\SoftUni\LoopsHomework\Task-18BookSpiralMatrix\obj\Debug\Task-18BookSpiralMatrix.pdb

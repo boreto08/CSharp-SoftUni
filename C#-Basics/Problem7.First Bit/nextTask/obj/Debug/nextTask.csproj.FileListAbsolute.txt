@@ -1,0 +1,6 @@
+D:\SoftUni\Problem7.First Bit\nextTask\bin\Debug\nextTask.exe.config
+D:\SoftUni\Problem7.First Bit\nextTask\obj\Debug\nextTask.csprojResolveAssemblyReference.cache
+D:\SoftUni\Problem7.First Bit\nextTask\bin\Debug\nextTask.exe
+D:\SoftUni\Problem7.First Bit\nextTask\bin\Debug\nextTask.pdb
+D:\SoftUni\Problem7.First Bit\nextTask\obj\Debug\nextTask.exe
+D:\SoftUni\Problem7.First Bit\nextTask\obj\Debug\nextTask.pdb

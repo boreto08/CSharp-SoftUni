@@ -1,0 +1,5 @@
+D:\SoftUni\DrawingOnConsole\House\bin\Debug\House.exe.config
+D:\SoftUni\DrawingOnConsole\House\bin\Debug\House.exe
+D:\SoftUni\DrawingOnConsole\House\bin\Debug\House.pdb
+D:\SoftUni\DrawingOnConsole\House\obj\Debug\House.exe
+D:\SoftUni\DrawingOnConsole\House\obj\Debug\House.pdb

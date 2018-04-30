@@ -1,0 +1,5 @@
+D:\SoftUni\DrawingOnConsole\SquareFrame\bin\Debug\SquareFrame.exe.config
+D:\SoftUni\DrawingOnConsole\SquareFrame\bin\Debug\SquareFrame.exe
+D:\SoftUni\DrawingOnConsole\SquareFrame\bin\Debug\SquareFrame.pdb
+D:\SoftUni\DrawingOnConsole\SquareFrame\obj\Debug\SquareFrame.exe
+D:\SoftUni\DrawingOnConsole\SquareFrame\obj\Debug\SquareFrame.pdb

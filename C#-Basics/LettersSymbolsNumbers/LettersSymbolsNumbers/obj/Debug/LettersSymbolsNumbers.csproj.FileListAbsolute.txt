@@ -1,0 +1,6 @@
+D:\SoftUni\LettersSymbolsNumbers\LettersSymbolsNumbers\bin\Debug\LettersSymbolsNumbers.exe.config
+D:\SoftUni\LettersSymbolsNumbers\LettersSymbolsNumbers\obj\Debug\LettersSymbolsNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\LettersSymbolsNumbers\LettersSymbolsNumbers\bin\Debug\LettersSymbolsNumbers.exe
+D:\SoftUni\LettersSymbolsNumbers\LettersSymbolsNumbers\bin\Debug\LettersSymbolsNumbers.pdb
+D:\SoftUni\LettersSymbolsNumbers\LettersSymbolsNumbers\obj\Debug\LettersSymbolsNumbers.exe
+D:\SoftUni\LettersSymbolsNumbers\LettersSymbolsNumbers\obj\Debug\LettersSymbolsNumbers.pdb

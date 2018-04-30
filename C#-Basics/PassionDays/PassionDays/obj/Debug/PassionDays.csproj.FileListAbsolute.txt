@@ -1,0 +1,6 @@
+D:\SoftUni\PassionDays\PassionDays\bin\Debug\PassionDays.exe.config
+D:\SoftUni\PassionDays\PassionDays\obj\Debug\PassionDays.csprojResolveAssemblyReference.cache
+D:\SoftUni\PassionDays\PassionDays\bin\Debug\PassionDays.exe
+D:\SoftUni\PassionDays\PassionDays\bin\Debug\PassionDays.pdb
+D:\SoftUni\PassionDays\PassionDays\obj\Debug\PassionDays.exe
+D:\SoftUni\PassionDays\PassionDays\obj\Debug\PassionDays.pdb

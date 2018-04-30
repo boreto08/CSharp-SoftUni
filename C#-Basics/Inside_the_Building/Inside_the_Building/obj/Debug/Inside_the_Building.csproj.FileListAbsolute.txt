@@ -1,0 +1,6 @@
+D:\SoftUni\Inside_the_Building\Inside_the_Building\bin\Debug\Inside_the_Building.exe.config
+D:\SoftUni\Inside_the_Building\Inside_the_Building\bin\Debug\Inside_the_Building.exe
+D:\SoftUni\Inside_the_Building\Inside_the_Building\bin\Debug\Inside_the_Building.pdb
+D:\SoftUni\Inside_the_Building\Inside_the_Building\obj\Debug\Inside_the_Building.csprojResolveAssemblyReference.cache
+D:\SoftUni\Inside_the_Building\Inside_the_Building\obj\Debug\Inside_the_Building.exe
+D:\SoftUni\Inside_the_Building\Inside_the_Building\obj\Debug\Inside_the_Building.pdb

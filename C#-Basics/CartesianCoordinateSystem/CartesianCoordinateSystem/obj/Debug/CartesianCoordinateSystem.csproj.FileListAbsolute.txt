@@ -1,0 +1,6 @@
+D:\SoftUni\CartesianCoordinateSystem\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.exe.config
+D:\SoftUni\CartesianCoordinateSystem\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.csprojResolveAssemblyReference.cache
+D:\SoftUni\CartesianCoordinateSystem\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.exe
+D:\SoftUni\CartesianCoordinateSystem\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.pdb
+D:\SoftUni\CartesianCoordinateSystem\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.exe
+D:\SoftUni\CartesianCoordinateSystem\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.pdb

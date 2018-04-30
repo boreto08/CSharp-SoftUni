@@ -1,0 +1,5 @@
+D:\SoftUni\DrawingOnConsole\RhombusOfStars\bin\Debug\RhombusOfStars.exe.config
+D:\SoftUni\DrawingOnConsole\RhombusOfStars\bin\Debug\RhombusOfStars.exe
+D:\SoftUni\DrawingOnConsole\RhombusOfStars\bin\Debug\RhombusOfStars.pdb
+D:\SoftUni\DrawingOnConsole\RhombusOfStars\obj\Debug\RhombusOfStars.exe
+D:\SoftUni\DrawingOnConsole\RhombusOfStars\obj\Debug\RhombusOfStars.pdb

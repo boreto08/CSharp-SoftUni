@@ -1,0 +1,6 @@
+D:\SoftUni\EmergencyRepairs\EmergencyRepairs\bin\Debug\EmergencyRepairs.exe.config
+D:\SoftUni\EmergencyRepairs\EmergencyRepairs\obj\Debug\EmergencyRepairs.csprojResolveAssemblyReference.cache
+D:\SoftUni\EmergencyRepairs\EmergencyRepairs\bin\Debug\EmergencyRepairs.exe
+D:\SoftUni\EmergencyRepairs\EmergencyRepairs\bin\Debug\EmergencyRepairs.pdb
+D:\SoftUni\EmergencyRepairs\EmergencyRepairs\obj\Debug\EmergencyRepairs.exe
+D:\SoftUni\EmergencyRepairs\EmergencyRepairs\obj\Debug\EmergencyRepairs.pdb

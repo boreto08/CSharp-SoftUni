@@ -1,0 +1,6 @@
+D:\SoftUni\SimpleIf_s\ConvertMetric\bin\Debug\ConvertMetric.exe.config
+D:\SoftUni\SimpleIf_s\ConvertMetric\obj\Debug\ConvertMetric.csprojResolveAssemblyReference.cache
+D:\SoftUni\SimpleIf_s\ConvertMetric\bin\Debug\ConvertMetric.exe
+D:\SoftUni\SimpleIf_s\ConvertMetric\bin\Debug\ConvertMetric.pdb
+D:\SoftUni\SimpleIf_s\ConvertMetric\obj\Debug\ConvertMetric.exe
+D:\SoftUni\SimpleIf_s\ConvertMetric\obj\Debug\ConvertMetric.pdb

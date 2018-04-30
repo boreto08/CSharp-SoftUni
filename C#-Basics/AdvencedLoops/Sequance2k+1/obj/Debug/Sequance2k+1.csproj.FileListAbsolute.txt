@@ -1,0 +1,8 @@
+D:\SoftUni\AdvencedLoops\Sequance2k+1\bin\Debug\Sequance2k+1.exe.config
+D:\SoftUni\AdvencedLoops\Sequance2k+1\bin\Debug\Sequance2k+1.exe
+D:\SoftUni\AdvencedLoops\Sequance2k+1\bin\Debug\Sequance2k+1.pdb
+D:\SoftUni\AdvencedLoops\Sequance2k+1\obj\Debug\Sequance2k+1.csprojResolveAssemblyReference.cache
+D:\SoftUni\AdvencedLoops\Sequance2k+1\obj\Debug\Sequance2k+1.exe
+D:\SoftUni\AdvencedLoops\Sequance2k+1\obj\Debug\Sequance2k+1.pdb
+D:\SoftUni\AdvencedLoops\Sequance2k+1\bin\Debug\Sequance2k+1.exe.CodeAnalysisLog.xml
+D:\SoftUni\AdvencedLoops\Sequance2k+1\bin\Debug\Sequance2k+1.exe.lastcodeanalysissucceeded

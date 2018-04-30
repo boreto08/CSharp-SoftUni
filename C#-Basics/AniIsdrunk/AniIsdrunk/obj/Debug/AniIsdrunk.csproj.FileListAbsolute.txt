@@ -1,0 +1,6 @@
+D:\SoftUni\AniIsdrunk\AniIsdrunk\bin\Debug\AniIsdrunk.exe.config
+D:\SoftUni\AniIsdrunk\AniIsdrunk\bin\Debug\AniIsdrunk.exe
+D:\SoftUni\AniIsdrunk\AniIsdrunk\bin\Debug\AniIsdrunk.pdb
+D:\SoftUni\AniIsdrunk\AniIsdrunk\obj\Debug\AniIsdrunk.csprojResolveAssemblyReference.cache
+D:\SoftUni\AniIsdrunk\AniIsdrunk\obj\Debug\AniIsdrunk.exe
+D:\SoftUni\AniIsdrunk\AniIsdrunk\obj\Debug\AniIsdrunk.pdb

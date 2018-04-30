@@ -1,0 +1,6 @@
+D:\SoftUni\BaiIvanAdventures\BaiIvanAdventures\bin\Debug\BaiIvanAdventures.exe.config
+D:\SoftUni\BaiIvanAdventures\BaiIvanAdventures\obj\Debug\BaiIvanAdventures.csprojResolveAssemblyReference.cache
+D:\SoftUni\BaiIvanAdventures\BaiIvanAdventures\bin\Debug\BaiIvanAdventures.exe
+D:\SoftUni\BaiIvanAdventures\BaiIvanAdventures\bin\Debug\BaiIvanAdventures.pdb
+D:\SoftUni\BaiIvanAdventures\BaiIvanAdventures\obj\Debug\BaiIvanAdventures.exe
+D:\SoftUni\BaiIvanAdventures\BaiIvanAdventures\obj\Debug\BaiIvanAdventures.pdb

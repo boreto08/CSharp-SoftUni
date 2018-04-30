@@ -1,0 +1,5 @@
+D:\SoftUni\01ProblemNumbersfrom1toN\13ProblemBinaryToDecimal\bin\Debug\13ProblemBinaryToDecimal.exe.config
+D:\SoftUni\01ProblemNumbersfrom1toN\13ProblemBinaryToDecimal\bin\Debug\13ProblemBinaryToDecimal.exe
+D:\SoftUni\01ProblemNumbersfrom1toN\13ProblemBinaryToDecimal\bin\Debug\13ProblemBinaryToDecimal.pdb
+D:\SoftUni\01ProblemNumbersfrom1toN\13ProblemBinaryToDecimal\obj\Debug\13ProblemBinaryToDecimal.exe
+D:\SoftUni\01ProblemNumbersfrom1toN\13ProblemBinaryToDecimal\obj\Debug\13ProblemBinaryToDecimal.pdb

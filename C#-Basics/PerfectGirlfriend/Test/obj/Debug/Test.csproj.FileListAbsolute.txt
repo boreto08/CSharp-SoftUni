@@ -1,0 +1,6 @@
+D:\SoftUni\PerfectGirlfriend\Test\bin\Debug\Test.exe.config
+D:\SoftUni\PerfectGirlfriend\Test\bin\Debug\Test.exe
+D:\SoftUni\PerfectGirlfriend\Test\bin\Debug\Test.pdb
+D:\SoftUni\PerfectGirlfriend\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\SoftUni\PerfectGirlfriend\Test\obj\Debug\Test.exe
+D:\SoftUni\PerfectGirlfriend\Test\obj\Debug\Test.pdb

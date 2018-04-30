@@ -1,0 +1,6 @@
+D:\SoftUni\KingOfThieves\KingOfThieves\bin\Debug\KingOfThieves.exe.config
+D:\SoftUni\KingOfThieves\KingOfThieves\bin\Debug\KingOfThieves.exe
+D:\SoftUni\KingOfThieves\KingOfThieves\bin\Debug\KingOfThieves.pdb
+D:\SoftUni\KingOfThieves\KingOfThieves\obj\Debug\KingOfThieves.csprojResolveAssemblyReference.cache
+D:\SoftUni\KingOfThieves\KingOfThieves\obj\Debug\KingOfThieves.exe
+D:\SoftUni\KingOfThieves\KingOfThieves\obj\Debug\KingOfThieves.pdb

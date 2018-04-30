@@ -1,0 +1,6 @@
+D:\SoftUni\EasterMister\EasterMister\bin\Debug\EasterMister.exe.config
+D:\SoftUni\EasterMister\EasterMister\bin\Debug\EasterMister.exe
+D:\SoftUni\EasterMister\EasterMister\bin\Debug\EasterMister.pdb
+D:\SoftUni\EasterMister\EasterMister\obj\Debug\EasterMister.csprojResolveAssemblyReference.cache
+D:\SoftUni\EasterMister\EasterMister\obj\Debug\EasterMister.exe
+D:\SoftUni\EasterMister\EasterMister\obj\Debug\EasterMister.pdb

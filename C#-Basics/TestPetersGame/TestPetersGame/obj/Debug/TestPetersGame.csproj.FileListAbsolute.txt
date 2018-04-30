@@ -1,0 +1,6 @@
+D:\SoftUni\TestPetersGame\TestPetersGame\bin\Debug\TestPetersGame.exe.config
+D:\SoftUni\TestPetersGame\TestPetersGame\bin\Debug\TestPetersGame.exe
+D:\SoftUni\TestPetersGame\TestPetersGame\bin\Debug\TestPetersGame.pdb
+D:\SoftUni\TestPetersGame\TestPetersGame\obj\Debug\TestPetersGame.csprojResolveAssemblyReference.cache
+D:\SoftUni\TestPetersGame\TestPetersGame\obj\Debug\TestPetersGame.exe
+D:\SoftUni\TestPetersGame\TestPetersGame\obj\Debug\TestPetersGame.pdb

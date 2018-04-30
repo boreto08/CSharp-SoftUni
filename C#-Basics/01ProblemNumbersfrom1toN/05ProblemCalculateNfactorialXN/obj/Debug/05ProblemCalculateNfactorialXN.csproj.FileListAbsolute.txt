@@ -1,0 +1,6 @@
+D:\SoftUni\01ProblemNumbersfrom1toN\05ProblemCalculateNfactorialXN\bin\Debug\05ProblemCalculateNfactorialXN.exe.config
+D:\SoftUni\01ProblemNumbersfrom1toN\05ProblemCalculateNfactorialXN\bin\Debug\05ProblemCalculateNfactorialXN.exe
+D:\SoftUni\01ProblemNumbersfrom1toN\05ProblemCalculateNfactorialXN\bin\Debug\05ProblemCalculateNfactorialXN.pdb
+D:\SoftUni\01ProblemNumbersfrom1toN\05ProblemCalculateNfactorialXN\obj\Debug\05ProblemCalculateNfactorialXN.csprojResolveAssemblyReference.cache
+D:\SoftUni\01ProblemNumbersfrom1toN\05ProblemCalculateNfactorialXN\obj\Debug\05ProblemCalculateNfactorialXN.exe
+D:\SoftUni\01ProblemNumbersfrom1toN\05ProblemCalculateNfactorialXN\obj\Debug\05ProblemCalculateNfactorialXN.pdb

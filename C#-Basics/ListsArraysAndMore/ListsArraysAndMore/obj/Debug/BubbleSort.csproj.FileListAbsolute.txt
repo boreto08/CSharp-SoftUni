@@ -1,0 +1,6 @@
+D:\SoftUni\ListsArraysAndMore\ListsArraysAndMore\bin\Debug\ListsArraysAndMore.exe.config
+D:\SoftUni\ListsArraysAndMore\ListsArraysAndMore\bin\Debug\ListsArraysAndMore.exe
+D:\SoftUni\ListsArraysAndMore\ListsArraysAndMore\bin\Debug\ListsArraysAndMore.pdb
+D:\SoftUni\ListsArraysAndMore\ListsArraysAndMore\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
+D:\SoftUni\ListsArraysAndMore\ListsArraysAndMore\obj\Debug\ListsArraysAndMore.exe
+D:\SoftUni\ListsArraysAndMore\ListsArraysAndMore\obj\Debug\ListsArraysAndMore.pdb

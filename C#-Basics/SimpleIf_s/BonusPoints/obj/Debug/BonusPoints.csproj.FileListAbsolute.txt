@@ -1,0 +1,5 @@
+D:\SoftUni\SimpleIf_s\BonusPoints\bin\Debug\BonusPoints.exe.config
+D:\SoftUni\SimpleIf_s\BonusPoints\bin\Debug\BonusPoints.exe
+D:\SoftUni\SimpleIf_s\BonusPoints\bin\Debug\BonusPoints.pdb
+D:\SoftUni\SimpleIf_s\BonusPoints\obj\Debug\BonusPoints.exe
+D:\SoftUni\SimpleIf_s\BonusPoints\obj\Debug\BonusPoints.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\ChangeEvenBits\ChangeEvenBits\bin\Debug\ChangeEvenBits.exe.config
+D:\SoftUni\ChangeEvenBits\ChangeEvenBits\obj\Debug\ChangeEvenBits.csprojResolveAssemblyReference.cache
+D:\SoftUni\ChangeEvenBits\ChangeEvenBits\bin\Debug\ChangeEvenBits.exe
+D:\SoftUni\ChangeEvenBits\ChangeEvenBits\bin\Debug\ChangeEvenBits.pdb
+D:\SoftUni\ChangeEvenBits\ChangeEvenBits\obj\Debug\ChangeEvenBits.exe
+D:\SoftUni\ChangeEvenBits\ChangeEvenBits\obj\Debug\ChangeEvenBits.pdb

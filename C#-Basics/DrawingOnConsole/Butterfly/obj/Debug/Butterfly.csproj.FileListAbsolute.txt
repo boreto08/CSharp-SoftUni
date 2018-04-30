@@ -1,0 +1,6 @@
+D:\SoftUni\DrawingOnConsole\Butterfly\bin\Debug\Butterfly.exe.config
+D:\SoftUni\DrawingOnConsole\Butterfly\bin\Debug\Butterfly.exe
+D:\SoftUni\DrawingOnConsole\Butterfly\bin\Debug\Butterfly.pdb
+D:\SoftUni\DrawingOnConsole\Butterfly\obj\Debug\Butterfly.csprojResolveAssemblyReference.cache
+D:\SoftUni\DrawingOnConsole\Butterfly\obj\Debug\Butterfly.exe
+D:\SoftUni\DrawingOnConsole\Butterfly\obj\Debug\Butterfly.pdb

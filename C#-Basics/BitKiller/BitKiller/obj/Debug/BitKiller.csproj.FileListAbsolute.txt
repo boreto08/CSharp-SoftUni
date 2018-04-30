@@ -1,0 +1,6 @@
+D:\SoftUni\BitKiller\BitKiller\bin\Debug\BitKiller.exe.config
+D:\SoftUni\BitKiller\BitKiller\obj\Debug\BitKiller.csprojResolveAssemblyReference.cache
+D:\SoftUni\BitKiller\BitKiller\bin\Debug\BitKiller.exe
+D:\SoftUni\BitKiller\BitKiller\bin\Debug\BitKiller.pdb
+D:\SoftUni\BitKiller\BitKiller\obj\Debug\BitKiller.exe
+D:\SoftUni\BitKiller\BitKiller\obj\Debug\BitKiller.pdb

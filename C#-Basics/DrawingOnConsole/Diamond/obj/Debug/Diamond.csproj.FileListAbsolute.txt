@@ -1,0 +1,5 @@
+D:\SoftUni\DrawingOnConsole\Diamond\bin\Debug\Diamond.exe.config
+D:\SoftUni\DrawingOnConsole\Diamond\bin\Debug\Diamond.exe
+D:\SoftUni\DrawingOnConsole\Diamond\bin\Debug\Diamond.pdb
+D:\SoftUni\DrawingOnConsole\Diamond\obj\Debug\Diamond.exe
+D:\SoftUni\DrawingOnConsole\Diamond\obj\Debug\Diamond.pdb

@@ -1,0 +1,13 @@
+D:\SoftUni\Car\Car\bin\Debug\Car.exe.config
+D:\SoftUni\Car\Car\bin\Debug\Car.exe
+D:\SoftUni\Car\Car\bin\Debug\Car.pdb
+D:\SoftUni\Car\Car\obj\Debug\Car.csprojResolveAssemblyReference.cache
+D:\SoftUni\Car\Car\obj\Debug\Car.exe
+D:\SoftUni\Car\Car\obj\Debug\Car.pdb
+D:\C#-REPOSITORY-NEW\CSharp-SoftUni\C#-Basics\Car\Car\bin\Debug\Car.exe.config
+D:\C#-REPOSITORY-NEW\CSharp-SoftUni\C#-Basics\Car\Car\bin\Debug\Car.exe
+D:\C#-REPOSITORY-NEW\CSharp-SoftUni\C#-Basics\Car\Car\bin\Debug\Car.pdb
+D:\C#-REPOSITORY-NEW\CSharp-SoftUni\C#-Basics\Car\Car\obj\Debug\Car.csprojResolveAssemblyReference.cache
+D:\C#-REPOSITORY-NEW\CSharp-SoftUni\C#-Basics\Car\Car\obj\Debug\Car.csproj.CoreCompileInputs.cache
+D:\C#-REPOSITORY-NEW\CSharp-SoftUni\C#-Basics\Car\Car\obj\Debug\Car.exe
+D:\C#-REPOSITORY-NEW\CSharp-SoftUni\C#-Basics\Car\Car\obj\Debug\Car.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\AdvencedLoops\PyramidOfNumbers\bin\Debug\PyramidOfNumbers.exe.config
+D:\SoftUni\AdvencedLoops\PyramidOfNumbers\bin\Debug\PyramidOfNumbers.exe
+D:\SoftUni\AdvencedLoops\PyramidOfNumbers\bin\Debug\PyramidOfNumbers.pdb
+D:\SoftUni\AdvencedLoops\PyramidOfNumbers\obj\Debug\PyramidOfNumbers.exe
+D:\SoftUni\AdvencedLoops\PyramidOfNumbers\obj\Debug\PyramidOfNumbers.pdb

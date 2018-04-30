@@ -1,0 +1,6 @@
+D:\SoftUni\AdvencedLoops\NumberTAble\bin\Debug\NumberTAble.exe.config
+D:\SoftUni\AdvencedLoops\NumberTAble\bin\Debug\NumberTAble.exe
+D:\SoftUni\AdvencedLoops\NumberTAble\bin\Debug\NumberTAble.pdb
+D:\SoftUni\AdvencedLoops\NumberTAble\obj\Debug\NumberTAble.exe
+D:\SoftUni\AdvencedLoops\NumberTAble\obj\Debug\NumberTAble.pdb
+D:\SoftUni\AdvencedLoops\NumberTAble\obj\Debug\NumberTAble.csprojResolveAssemblyReference.cache

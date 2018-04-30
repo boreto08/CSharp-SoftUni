@@ -1,0 +1,7 @@
+D:\SoftUni\AdvencedLoops\EvenNumber\bin\Debug\EvenNumber.exe.config
+D:\SoftUni\AdvencedLoops\EvenNumber\bin\Debug\EvenNumber.exe
+D:\SoftUni\AdvencedLoops\EvenNumber\bin\Debug\EvenNumber.pdb
+D:\SoftUni\AdvencedLoops\EvenNumber\obj\Debug\EvenNumber.exe
+D:\SoftUni\AdvencedLoops\EvenNumber\obj\Debug\EvenNumber.pdb
+D:\SoftUni\AdvencedLoops\EvenNumber\bin\Debug\EvenNumber.exe.CodeAnalysisLog.xml
+D:\SoftUni\AdvencedLoops\EvenNumber\bin\Debug\EvenNumber.exe.lastcodeanalysissucceeded

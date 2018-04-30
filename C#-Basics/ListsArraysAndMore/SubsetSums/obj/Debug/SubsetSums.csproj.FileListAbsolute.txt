@@ -1,0 +1,6 @@
+D:\SoftUni\ListsArraysAndMore\SubsetSums\bin\Debug\SubsetSums.exe.config
+D:\SoftUni\ListsArraysAndMore\SubsetSums\bin\Debug\SubsetSums.exe
+D:\SoftUni\ListsArraysAndMore\SubsetSums\bin\Debug\SubsetSums.pdb
+D:\SoftUni\ListsArraysAndMore\SubsetSums\obj\Debug\SubsetSums.exe
+D:\SoftUni\ListsArraysAndMore\SubsetSums\obj\Debug\SubsetSums.pdb
+D:\SoftUni\ListsArraysAndMore\SubsetSums\obj\Debug\SubsetSums.csprojResolveAssemblyReference.cache

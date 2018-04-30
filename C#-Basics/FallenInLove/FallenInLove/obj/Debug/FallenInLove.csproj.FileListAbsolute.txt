@@ -1,0 +1,6 @@
+D:\SoftUni\FallenInLove\FallenInLove\bin\Debug\FallenInLove.exe.config
+D:\SoftUni\FallenInLove\FallenInLove\bin\Debug\FallenInLove.exe
+D:\SoftUni\FallenInLove\FallenInLove\bin\Debug\FallenInLove.pdb
+D:\SoftUni\FallenInLove\FallenInLove\obj\Debug\FallenInLove.csprojResolveAssemblyReference.cache
+D:\SoftUni\FallenInLove\FallenInLove\obj\Debug\FallenInLove.exe
+D:\SoftUni\FallenInLove\FallenInLove\obj\Debug\FallenInLove.pdb

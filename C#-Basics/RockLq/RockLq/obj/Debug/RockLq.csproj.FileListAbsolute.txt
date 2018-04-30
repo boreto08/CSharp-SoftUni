@@ -1,0 +1,6 @@
+D:\SoftUni\RockLq\RockLq\bin\Debug\RockLq.exe.config
+D:\SoftUni\RockLq\RockLq\bin\Debug\RockLq.exe
+D:\SoftUni\RockLq\RockLq\bin\Debug\RockLq.pdb
+D:\SoftUni\RockLq\RockLq\obj\Debug\RockLq.csprojResolveAssemblyReference.cache
+D:\SoftUni\RockLq\RockLq\obj\Debug\RockLq.exe
+D:\SoftUni\RockLq\RockLq\obj\Debug\RockLq.pdb

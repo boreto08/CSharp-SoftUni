@@ -1,0 +1,6 @@
+D:\SoftUni\StuckNumbers\StuckNumbers\bin\Debug\StuckNumbers.exe.config
+D:\SoftUni\StuckNumbers\StuckNumbers\bin\Debug\StuckNumbers.exe
+D:\SoftUni\StuckNumbers\StuckNumbers\bin\Debug\StuckNumbers.pdb
+D:\SoftUni\StuckNumbers\StuckNumbers\obj\Debug\StuckNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\StuckNumbers\StuckNumbers\obj\Debug\StuckNumbers.exe
+D:\SoftUni\StuckNumbers\StuckNumbers\obj\Debug\StuckNumbers.pdb

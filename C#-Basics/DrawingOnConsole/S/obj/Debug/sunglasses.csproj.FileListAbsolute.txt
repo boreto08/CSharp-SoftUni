@@ -1,0 +1,6 @@
+D:\SoftUni\DrawingOnConsole\S\bin\Debug\S.exe.config
+D:\SoftUni\DrawingOnConsole\S\bin\Debug\S.exe
+D:\SoftUni\DrawingOnConsole\S\bin\Debug\S.pdb
+D:\SoftUni\DrawingOnConsole\S\obj\Debug\sunglasses.csprojResolveAssemblyReference.cache
+D:\SoftUni\DrawingOnConsole\S\obj\Debug\S.exe
+D:\SoftUni\DrawingOnConsole\S\obj\Debug\S.pdb

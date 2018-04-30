@@ -1,0 +1,2 @@
+D:\SoftUni\MagicStrings\MagicStrings\bin\Debug\MagicStrings.exe.config
+D:\SoftUni\MagicStrings\MagicStrings\obj\Debug\MagicStrings.csprojResolveAssemblyReference.cache

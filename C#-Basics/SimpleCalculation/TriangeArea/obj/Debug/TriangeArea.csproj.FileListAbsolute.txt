@@ -1,0 +1,5 @@
+D:\SoftUni\SimpleCalculation\TriangeArea\bin\Debug\TriangeArea.exe.config
+D:\SoftUni\SimpleCalculation\TriangeArea\bin\Debug\TriangeArea.exe
+D:\SoftUni\SimpleCalculation\TriangeArea\bin\Debug\TriangeArea.pdb
+D:\SoftUni\SimpleCalculation\TriangeArea\obj\Debug\TriangeArea.exe
+D:\SoftUni\SimpleCalculation\TriangeArea\obj\Debug\TriangeArea.pdb

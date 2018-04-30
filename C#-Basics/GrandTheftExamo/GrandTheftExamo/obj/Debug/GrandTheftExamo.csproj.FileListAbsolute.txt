@@ -1,0 +1,6 @@
+D:\SoftUni\GrandTheftExamo\GrandTheftExamo\bin\Debug\GrandTheftExamo.exe.config
+D:\SoftUni\GrandTheftExamo\GrandTheftExamo\bin\Debug\GrandTheftExamo.exe
+D:\SoftUni\GrandTheftExamo\GrandTheftExamo\bin\Debug\GrandTheftExamo.pdb
+D:\SoftUni\GrandTheftExamo\GrandTheftExamo\obj\Debug\GrandTheftExamo.csprojResolveAssemblyReference.cache
+D:\SoftUni\GrandTheftExamo\GrandTheftExamo\obj\Debug\GrandTheftExamo.exe
+D:\SoftUni\GrandTheftExamo\GrandTheftExamo\obj\Debug\GrandTheftExamo.pdb

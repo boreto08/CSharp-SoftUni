@@ -1,0 +1,6 @@
+D:\SoftUni\BitSwap\BitSwap\bin\Debug\BitSwap.exe.config
+D:\SoftUni\BitSwap\BitSwap\obj\Debug\BitSwap.csprojResolveAssemblyReference.cache
+D:\SoftUni\BitSwap\BitSwap\bin\Debug\BitSwap.exe
+D:\SoftUni\BitSwap\BitSwap\bin\Debug\BitSwap.pdb
+D:\SoftUni\BitSwap\BitSwap\obj\Debug\BitSwap.exe
+D:\SoftUni\BitSwap\BitSwap\obj\Debug\BitSwap.pdb

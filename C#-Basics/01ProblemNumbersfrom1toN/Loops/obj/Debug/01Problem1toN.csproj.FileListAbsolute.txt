@@ -1,0 +1,6 @@
+D:\SoftUni\01ProblemNumbersfrom1toN\Loops\obj\Debug\01Problem1toN.csprojResolveAssemblyReference.cache
+D:\SoftUni\01ProblemNumbersfrom1toN\Loops\bin\Debug\Loops.exe.config
+D:\SoftUni\01ProblemNumbersfrom1toN\Loops\bin\Debug\Loops.exe
+D:\SoftUni\01ProblemNumbersfrom1toN\Loops\bin\Debug\Loops.pdb
+D:\SoftUni\01ProblemNumbersfrom1toN\Loops\obj\Debug\Loops.exe
+D:\SoftUni\01ProblemNumbersfrom1toN\Loops\obj\Debug\Loops.pdb

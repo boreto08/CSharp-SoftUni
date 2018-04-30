@@ -1,0 +1,6 @@
+D:\SoftUni\OperatorsExpressions\Problem7PointCircle\bin\Debug\Problem7PointCircle.exe.config
+D:\SoftUni\OperatorsExpressions\Problem7PointCircle\obj\Debug\Problem7PointCircle.csprojResolveAssemblyReference.cache
+D:\SoftUni\OperatorsExpressions\Problem7PointCircle\bin\Debug\Problem7PointCircle.exe
+D:\SoftUni\OperatorsExpressions\Problem7PointCircle\bin\Debug\Problem7PointCircle.pdb
+D:\SoftUni\OperatorsExpressions\Problem7PointCircle\obj\Debug\Problem7PointCircle.exe
+D:\SoftUni\OperatorsExpressions\Problem7PointCircle\obj\Debug\Problem7PointCircle.pdb

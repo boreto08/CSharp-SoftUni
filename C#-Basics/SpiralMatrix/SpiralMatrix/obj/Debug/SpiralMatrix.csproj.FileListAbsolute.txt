@@ -1,0 +1,6 @@
+D:\SoftUni\SpiralMatrix\SpiralMatrix\bin\Debug\SpiralMatrix.exe.config
+D:\SoftUni\SpiralMatrix\SpiralMatrix\obj\Debug\SpiralMatrix.csprojResolveAssemblyReference.cache
+D:\SoftUni\SpiralMatrix\SpiralMatrix\bin\Debug\SpiralMatrix.exe
+D:\SoftUni\SpiralMatrix\SpiralMatrix\bin\Debug\SpiralMatrix.pdb
+D:\SoftUni\SpiralMatrix\SpiralMatrix\obj\Debug\SpiralMatrix.exe
+D:\SoftUni\SpiralMatrix\SpiralMatrix\obj\Debug\SpiralMatrix.pdb

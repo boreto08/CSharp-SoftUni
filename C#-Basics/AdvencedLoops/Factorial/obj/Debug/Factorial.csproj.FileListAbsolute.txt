@@ -1,0 +1,7 @@
+D:\SoftUni\AdvencedLoops\Factorial\bin\Debug\Factorial.exe.config
+D:\SoftUni\AdvencedLoops\Factorial\bin\Debug\Factorial.exe
+D:\SoftUni\AdvencedLoops\Factorial\bin\Debug\Factorial.pdb
+D:\SoftUni\AdvencedLoops\Factorial\obj\Debug\Factorial.exe
+D:\SoftUni\AdvencedLoops\Factorial\obj\Debug\Factorial.pdb
+D:\SoftUni\AdvencedLoops\Factorial\bin\Debug\Factorial.exe.CodeAnalysisLog.xml
+D:\SoftUni\AdvencedLoops\Factorial\bin\Debug\Factorial.exe.lastcodeanalysissucceeded

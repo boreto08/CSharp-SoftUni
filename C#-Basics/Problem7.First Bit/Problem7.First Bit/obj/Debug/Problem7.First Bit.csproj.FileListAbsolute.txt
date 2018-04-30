@@ -1,0 +1,6 @@
+D:\SoftUni\Problem7.First Bit\Problem7.First Bit\bin\Debug\Problem7.First Bit.exe.config
+D:\SoftUni\Problem7.First Bit\Problem7.First Bit\obj\Debug\Problem7.First Bit.csprojResolveAssemblyReference.cache
+D:\SoftUni\Problem7.First Bit\Problem7.First Bit\bin\Debug\Problem7.First Bit.exe
+D:\SoftUni\Problem7.First Bit\Problem7.First Bit\bin\Debug\Problem7.First Bit.pdb
+D:\SoftUni\Problem7.First Bit\Problem7.First Bit\obj\Debug\Problem7.First Bit.exe
+D:\SoftUni\Problem7.First Bit\Problem7.First Bit\obj\Debug\Problem7.First Bit.pdb

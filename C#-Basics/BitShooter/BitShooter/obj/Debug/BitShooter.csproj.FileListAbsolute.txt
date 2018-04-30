@@ -1,0 +1,6 @@
+D:\SoftUni\BitShooter\BitShooter\bin\Debug\BitShooter.exe.config
+D:\SoftUni\BitShooter\BitShooter\obj\Debug\BitShooter.csprojResolveAssemblyReference.cache
+D:\SoftUni\BitShooter\BitShooter\bin\Debug\BitShooter.exe
+D:\SoftUni\BitShooter\BitShooter\bin\Debug\BitShooter.pdb
+D:\SoftUni\BitShooter\BitShooter\obj\Debug\BitShooter.exe
+D:\SoftUni\BitShooter\BitShooter\obj\Debug\BitShooter.pdb

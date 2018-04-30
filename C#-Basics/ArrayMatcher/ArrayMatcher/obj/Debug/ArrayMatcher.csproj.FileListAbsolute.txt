@@ -1,0 +1,6 @@
+D:\SoftUni\ArrayMatcher\ArrayMatcher\bin\Debug\ArrayMatcher.exe.config
+D:\SoftUni\ArrayMatcher\ArrayMatcher\obj\Debug\ArrayMatcher.csprojResolveAssemblyReference.cache
+D:\SoftUni\ArrayMatcher\ArrayMatcher\bin\Debug\ArrayMatcher.exe
+D:\SoftUni\ArrayMatcher\ArrayMatcher\bin\Debug\ArrayMatcher.pdb
+D:\SoftUni\ArrayMatcher\ArrayMatcher\obj\Debug\ArrayMatcher.exe
+D:\SoftUni\ArrayMatcher\ArrayMatcher\obj\Debug\ArrayMatcher.pdb

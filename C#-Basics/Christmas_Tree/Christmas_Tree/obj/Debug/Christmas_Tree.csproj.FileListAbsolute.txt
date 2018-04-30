@@ -1,0 +1,6 @@
+D:\SoftUni\Christmas_Tree\Christmas_Tree\bin\Debug\Christmas_Tree.exe.config
+D:\SoftUni\Christmas_Tree\Christmas_Tree\bin\Debug\Christmas_Tree.exe
+D:\SoftUni\Christmas_Tree\Christmas_Tree\bin\Debug\Christmas_Tree.pdb
+D:\SoftUni\Christmas_Tree\Christmas_Tree\obj\Debug\Christmas_Tree.csprojResolveAssemblyReference.cache
+D:\SoftUni\Christmas_Tree\Christmas_Tree\obj\Debug\Christmas_Tree.exe
+D:\SoftUni\Christmas_Tree\Christmas_Tree\obj\Debug\Christmas_Tree.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\ChessboardGame\ChessboardGame\bin\Debug\ChessboardGame.exe.config
+D:\SoftUni\ChessboardGame\ChessboardGame\bin\Debug\ChessboardGame.exe
+D:\SoftUni\ChessboardGame\ChessboardGame\bin\Debug\ChessboardGame.pdb
+D:\SoftUni\ChessboardGame\ChessboardGame\obj\Debug\ChessboardGame.exe
+D:\SoftUni\ChessboardGame\ChessboardGame\obj\Debug\ChessboardGame.pdb
+D:\SoftUni\ChessboardGame\ChessboardGame\obj\Debug\ChessboardGame.csprojResolveAssemblyReference.cache

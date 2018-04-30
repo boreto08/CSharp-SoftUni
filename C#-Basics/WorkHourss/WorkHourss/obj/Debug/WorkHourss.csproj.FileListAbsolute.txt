@@ -1,0 +1,6 @@
+D:\SoftUni\WorkHourss\WorkHourss\bin\Debug\WorkHourss.exe.config
+D:\SoftUni\WorkHourss\WorkHourss\obj\Debug\WorkHourss.csprojResolveAssemblyReference.cache
+D:\SoftUni\WorkHourss\WorkHourss\bin\Debug\WorkHourss.exe
+D:\SoftUni\WorkHourss\WorkHourss\bin\Debug\WorkHourss.pdb
+D:\SoftUni\WorkHourss\WorkHourss\obj\Debug\WorkHourss.exe
+D:\SoftUni\WorkHourss\WorkHourss\obj\Debug\WorkHourss.pdb

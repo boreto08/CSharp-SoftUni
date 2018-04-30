@@ -1,0 +1,6 @@
+D:\SoftUni\ProspectInHospitality\SudokuResults\bin\Debug\SudokuResults.exe.config
+D:\SoftUni\ProspectInHospitality\SudokuResults\obj\Debug\SudokuResults.csprojResolveAssemblyReference.cache
+D:\SoftUni\ProspectInHospitality\SudokuResults\bin\Debug\SudokuResults.exe
+D:\SoftUni\ProspectInHospitality\SudokuResults\bin\Debug\SudokuResults.pdb
+D:\SoftUni\ProspectInHospitality\SudokuResults\obj\Debug\SudokuResults.exe
+D:\SoftUni\ProspectInHospitality\SudokuResults\obj\Debug\SudokuResults.pdb

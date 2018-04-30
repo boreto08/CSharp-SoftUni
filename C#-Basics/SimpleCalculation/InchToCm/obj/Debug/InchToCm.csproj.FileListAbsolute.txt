@@ -1,0 +1,6 @@
+D:\SoftUni\SimpleCalculation\InchToCm\bin\Debug\InchToCm.exe.config
+D:\SoftUni\SimpleCalculation\InchToCm\bin\Debug\InchToCm.exe
+D:\SoftUni\SimpleCalculation\InchToCm\bin\Debug\InchToCm.pdb
+D:\SoftUni\SimpleCalculation\InchToCm\obj\Debug\InchToCm.csprojResolveAssemblyReference.cache
+D:\SoftUni\SimpleCalculation\InchToCm\obj\Debug\InchToCm.exe
+D:\SoftUni\SimpleCalculation\InchToCm\obj\Debug\InchToCm.pdb

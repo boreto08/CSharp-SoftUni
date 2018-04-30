@@ -1,0 +1,6 @@
+D:\SoftUni\01ProblemNumbersfrom1toN\08ProblemCatalanNumbers\bin\Debug\08ProblemCatalanNumbers.exe.config
+D:\SoftUni\01ProblemNumbersfrom1toN\08ProblemCatalanNumbers\bin\Debug\08ProblemCatalanNumbers.exe
+D:\SoftUni\01ProblemNumbersfrom1toN\08ProblemCatalanNumbers\bin\Debug\08ProblemCatalanNumbers.pdb
+D:\SoftUni\01ProblemNumbersfrom1toN\08ProblemCatalanNumbers\obj\Debug\08ProblemCatalanNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\01ProblemNumbersfrom1toN\08ProblemCatalanNumbers\obj\Debug\08ProblemCatalanNumbers.exe
+D:\SoftUni\01ProblemNumbersfrom1toN\08ProblemCatalanNumbers\obj\Debug\08ProblemCatalanNumbers.pdb

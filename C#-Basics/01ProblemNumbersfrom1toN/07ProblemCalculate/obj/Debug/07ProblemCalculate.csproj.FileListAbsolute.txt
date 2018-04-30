@@ -1,0 +1,6 @@
+D:\SoftUni\01ProblemNumbersfrom1toN\07ProblemCalculate\bin\Debug\07ProblemCalculate.exe.config
+D:\SoftUni\01ProblemNumbersfrom1toN\07ProblemCalculate\bin\Debug\07ProblemCalculate.exe
+D:\SoftUni\01ProblemNumbersfrom1toN\07ProblemCalculate\bin\Debug\07ProblemCalculate.pdb
+D:\SoftUni\01ProblemNumbersfrom1toN\07ProblemCalculate\obj\Debug\07ProblemCalculate.exe
+D:\SoftUni\01ProblemNumbersfrom1toN\07ProblemCalculate\obj\Debug\07ProblemCalculate.pdb
+D:\SoftUni\01ProblemNumbersfrom1toN\07ProblemCalculate\obj\Debug\07ProblemCalculate.csprojResolveAssemblyReference.cache

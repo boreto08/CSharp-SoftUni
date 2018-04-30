@@ -1,0 +1,6 @@
+D:\SoftUni\OperatorsExpressions\Problem11 BitwiseExtractBit3\bin\Debug\Problem11 BitwiseExtractBit3.exe.config
+D:\SoftUni\OperatorsExpressions\Problem11 BitwiseExtractBit3\obj\Debug\Problem11 BitwiseExtractBit3.csprojResolveAssemblyReference.cache
+D:\SoftUni\OperatorsExpressions\Problem11 BitwiseExtractBit3\bin\Debug\Problem11 BitwiseExtractBit3.exe
+D:\SoftUni\OperatorsExpressions\Problem11 BitwiseExtractBit3\bin\Debug\Problem11 BitwiseExtractBit3.pdb
+D:\SoftUni\OperatorsExpressions\Problem11 BitwiseExtractBit3\obj\Debug\Problem11 BitwiseExtractBit3.exe
+D:\SoftUni\OperatorsExpressions\Problem11 BitwiseExtractBit3\obj\Debug\Problem11 BitwiseExtractBit3.pdb

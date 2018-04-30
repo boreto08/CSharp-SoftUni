@@ -1,0 +1,5 @@
+D:\SoftUni\SimpleCalculation\SimpleCalculation\bin\Debug\SimpleCalculation.exe.config
+D:\SoftUni\SimpleCalculation\SimpleCalculation\obj\Debug\SimpleCalculation.exe
+D:\SoftUni\SimpleCalculation\SimpleCalculation\obj\Debug\SimpleCalculation.pdb
+D:\SoftUni\SimpleCalculation\SimpleCalculation\bin\Debug\SimpleCalculation.exe
+D:\SoftUni\SimpleCalculation\SimpleCalculation\bin\Debug\SimpleCalculation.pdb

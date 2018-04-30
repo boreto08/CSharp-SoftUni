@@ -1,0 +1,6 @@
+D:\SoftUni\FourFactors\FourFactors\bin\Debug\FourFactors.exe.config
+D:\SoftUni\FourFactors\FourFactors\obj\Debug\FourFactors.csprojResolveAssemblyReference.cache
+D:\SoftUni\FourFactors\FourFactors\bin\Debug\FourFactors.exe
+D:\SoftUni\FourFactors\FourFactors\bin\Debug\FourFactors.pdb
+D:\SoftUni\FourFactors\FourFactors\obj\Debug\FourFactors.exe
+D:\SoftUni\FourFactors\FourFactors\obj\Debug\FourFactors.pdb

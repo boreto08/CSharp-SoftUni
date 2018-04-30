@@ -1,0 +1,6 @@
+D:\SoftUni\BitCopy\BitCopy\bin\Debug\BitCopy.exe.config
+D:\SoftUni\BitCopy\BitCopy\bin\Debug\BitCopy.exe
+D:\SoftUni\BitCopy\BitCopy\bin\Debug\BitCopy.pdb
+D:\SoftUni\BitCopy\BitCopy\obj\Debug\BitCopy.csprojResolveAssemblyReference.cache
+D:\SoftUni\BitCopy\BitCopy\obj\Debug\BitCopy.exe
+D:\SoftUni\BitCopy\BitCopy\obj\Debug\BitCopy.pdb

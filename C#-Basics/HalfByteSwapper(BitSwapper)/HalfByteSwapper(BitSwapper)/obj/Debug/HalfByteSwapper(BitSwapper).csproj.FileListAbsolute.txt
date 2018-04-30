@@ -1,0 +1,6 @@
+D:\SoftUni\HalfByteSwapper(BitSwapper)\HalfByteSwapper(BitSwapper)\bin\Debug\HalfByteSwapper(BitSwapper).exe.config
+D:\SoftUni\HalfByteSwapper(BitSwapper)\HalfByteSwapper(BitSwapper)\obj\Debug\HalfByteSwapper(BitSwapper).csprojResolveAssemblyReference.cache
+D:\SoftUni\HalfByteSwapper(BitSwapper)\HalfByteSwapper(BitSwapper)\bin\Debug\HalfByteSwapper(BitSwapper).exe
+D:\SoftUni\HalfByteSwapper(BitSwapper)\HalfByteSwapper(BitSwapper)\bin\Debug\HalfByteSwapper(BitSwapper).pdb
+D:\SoftUni\HalfByteSwapper(BitSwapper)\HalfByteSwapper(BitSwapper)\obj\Debug\HalfByteSwapper(BitSwapper).exe
+D:\SoftUni\HalfByteSwapper(BitSwapper)\HalfByteSwapper(BitSwapper)\obj\Debug\HalfByteSwapper(BitSwapper).pdb

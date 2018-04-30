@@ -1,0 +1,6 @@
+D:\SoftUni\NewHouse\NewHouse\bin\Debug\NewHouse.exe.config
+D:\SoftUni\NewHouse\NewHouse\bin\Debug\NewHouse.exe
+D:\SoftUni\NewHouse\NewHouse\bin\Debug\NewHouse.pdb
+D:\SoftUni\NewHouse\NewHouse\obj\Debug\NewHouse.csprojResolveAssemblyReference.cache
+D:\SoftUni\NewHouse\NewHouse\obj\Debug\NewHouse.exe
+D:\SoftUni\NewHouse\NewHouse\obj\Debug\NewHouse.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Take_the_plane_down\Take_the_plane_down\bin\Debug\Take_the_plane_down.exe.config
+D:\SoftUni\Take_the_plane_down\Take_the_plane_down\obj\Debug\Take_the_plane_down.csprojResolveAssemblyReference.cache
+D:\SoftUni\Take_the_plane_down\Take_the_plane_down\bin\Debug\Take_the_plane_down.exe
+D:\SoftUni\Take_the_plane_down\Take_the_plane_down\bin\Debug\Take_the_plane_down.pdb
+D:\SoftUni\Take_the_plane_down\Take_the_plane_down\obj\Debug\Take_the_plane_down.exe
+D:\SoftUni\Take_the_plane_down\Take_the_plane_down\obj\Debug\Take_the_plane_down.pdb

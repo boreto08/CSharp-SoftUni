@@ -1,0 +1,6 @@
+D:\SoftUni\01ProblemNumbersfrom1toN\16ProblemDecToHex\bin\Debug\16ProblemDecToHex.exe.config
+D:\SoftUni\01ProblemNumbersfrom1toN\16ProblemDecToHex\obj\Debug\16ProblemDecToHex.csprojResolveAssemblyReference.cache
+D:\SoftUni\01ProblemNumbersfrom1toN\16ProblemDecToHex\bin\Debug\16ProblemDecToHex.exe
+D:\SoftUni\01ProblemNumbersfrom1toN\16ProblemDecToHex\bin\Debug\16ProblemDecToHex.pdb
+D:\SoftUni\01ProblemNumbersfrom1toN\16ProblemDecToHex\obj\Debug\16ProblemDecToHex.exe
+D:\SoftUni\01ProblemNumbersfrom1toN\16ProblemDecToHex\obj\Debug\16ProblemDecToHex.pdb

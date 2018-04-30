@@ -1,0 +1,6 @@
+D:\SoftUni\CurrencyCheck\CurrencyCheck\bin\Debug\CurrencyCheck.exe.config
+D:\SoftUni\CurrencyCheck\CurrencyCheck\obj\Debug\CurrencyCheck.csprojResolveAssemblyReference.cache
+D:\SoftUni\CurrencyCheck\CurrencyCheck\bin\Debug\CurrencyCheck.exe
+D:\SoftUni\CurrencyCheck\CurrencyCheck\bin\Debug\CurrencyCheck.pdb
+D:\SoftUni\CurrencyCheck\CurrencyCheck\obj\Debug\CurrencyCheck.exe
+D:\SoftUni\CurrencyCheck\CurrencyCheck\obj\Debug\CurrencyCheck.pdb

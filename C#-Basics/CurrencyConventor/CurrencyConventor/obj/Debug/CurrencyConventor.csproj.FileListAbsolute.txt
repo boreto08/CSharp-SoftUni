@@ -1,0 +1,6 @@
+D:\SoftUni\CurrencyConventor\CurrencyConventor\bin\Debug\CurrencyConventor.exe.config
+D:\SoftUni\CurrencyConventor\CurrencyConventor\bin\Debug\CurrencyConventor.exe
+D:\SoftUni\CurrencyConventor\CurrencyConventor\bin\Debug\CurrencyConventor.pdb
+D:\SoftUni\CurrencyConventor\CurrencyConventor\obj\Debug\CurrencyConventor.csprojResolveAssemblyReference.cache
+D:\SoftUni\CurrencyConventor\CurrencyConventor\obj\Debug\CurrencyConventor.exe
+D:\SoftUni\CurrencyConventor\CurrencyConventor\obj\Debug\CurrencyConventor.pdb

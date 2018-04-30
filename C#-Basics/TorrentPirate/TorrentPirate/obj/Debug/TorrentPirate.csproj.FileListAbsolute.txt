@@ -1,0 +1,6 @@
+D:\SoftUni\TorrentPirate\TorrentPirate\bin\Debug\TorrentPirate.exe.config
+D:\SoftUni\TorrentPirate\TorrentPirate\bin\Debug\TorrentPirate.exe
+D:\SoftUni\TorrentPirate\TorrentPirate\bin\Debug\TorrentPirate.pdb
+D:\SoftUni\TorrentPirate\TorrentPirate\obj\Debug\TorrentPirate.csprojResolveAssemblyReference.cache
+D:\SoftUni\TorrentPirate\TorrentPirate\obj\Debug\TorrentPirate.exe
+D:\SoftUni\TorrentPirate\TorrentPirate\obj\Debug\TorrentPirate.pdb

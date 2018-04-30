@@ -1,0 +1,6 @@
+D:\SoftUni\ImpressTheGirlfriend\ImpressTheGirlfriend\bin\Debug\ImpressTheGirlfriend.exe.config
+D:\SoftUni\ImpressTheGirlfriend\ImpressTheGirlfriend\bin\Debug\ImpressTheGirlfriend.exe
+D:\SoftUni\ImpressTheGirlfriend\ImpressTheGirlfriend\bin\Debug\ImpressTheGirlfriend.pdb
+D:\SoftUni\ImpressTheGirlfriend\ImpressTheGirlfriend\obj\Debug\ImpressTheGirlfriend.csprojResolveAssemblyReference.cache
+D:\SoftUni\ImpressTheGirlfriend\ImpressTheGirlfriend\obj\Debug\ImpressTheGirlfriend.exe
+D:\SoftUni\ImpressTheGirlfriend\ImpressTheGirlfriend\obj\Debug\ImpressTheGirlfriend.pdb

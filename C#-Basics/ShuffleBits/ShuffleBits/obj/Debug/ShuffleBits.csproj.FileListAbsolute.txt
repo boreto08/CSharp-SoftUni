@@ -1,0 +1,6 @@
+D:\SoftUni\ShuffleBits\ShuffleBits\bin\Debug\ShuffleBits.exe.config
+D:\SoftUni\ShuffleBits\ShuffleBits\bin\Debug\ShuffleBits.exe
+D:\SoftUni\ShuffleBits\ShuffleBits\bin\Debug\ShuffleBits.pdb
+D:\SoftUni\ShuffleBits\ShuffleBits\obj\Debug\ShuffleBits.csprojResolveAssemblyReference.cache
+D:\SoftUni\ShuffleBits\ShuffleBits\obj\Debug\ShuffleBits.exe
+D:\SoftUni\ShuffleBits\ShuffleBits\obj\Debug\ShuffleBits.pdb

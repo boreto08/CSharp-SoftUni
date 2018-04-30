@@ -1,0 +1,6 @@
+D:\SoftUni\AmericanPie\AmericanPie\bin\Debug\AmericanPie.exe.config
+D:\SoftUni\AmericanPie\AmericanPie\bin\Debug\AmericanPie.exe
+D:\SoftUni\AmericanPie\AmericanPie\bin\Debug\AmericanPie.pdb
+D:\SoftUni\AmericanPie\AmericanPie\obj\Debug\AmericanPie.csprojResolveAssemblyReference.cache
+D:\SoftUni\AmericanPie\AmericanPie\obj\Debug\AmericanPie.exe
+D:\SoftUni\AmericanPie\AmericanPie\obj\Debug\AmericanPie.pdb
