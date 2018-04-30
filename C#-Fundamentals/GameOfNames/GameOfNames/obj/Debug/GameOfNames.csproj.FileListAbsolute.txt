@@ -1,0 +1,6 @@
+D:\SoftUniFundamentals\GameOfNames\GameOfNames\bin\Debug\GameOfNames.exe.config
+D:\SoftUniFundamentals\GameOfNames\GameOfNames\obj\Debug\GameOfNames.csprojResolveAssemblyReference.cache
+D:\SoftUniFundamentals\GameOfNames\GameOfNames\bin\Debug\GameOfNames.exe
+D:\SoftUniFundamentals\GameOfNames\GameOfNames\bin\Debug\GameOfNames.pdb
+D:\SoftUniFundamentals\GameOfNames\GameOfNames\obj\Debug\GameOfNames.exe
+D:\SoftUniFundamentals\GameOfNames\GameOfNames\obj\Debug\GameOfNames.pdb

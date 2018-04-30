@@ -1,0 +1,5 @@
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\02.MinerTask\bin\Debug\02.MinerTask.exe.config
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\02.MinerTask\bin\Debug\02.MinerTask.exe
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\02.MinerTask\bin\Debug\02.MinerTask.pdb
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\02.MinerTask\obj\Debug\02.MinerTask.exe
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\02.MinerTask\obj\Debug\02.MinerTask.pdb

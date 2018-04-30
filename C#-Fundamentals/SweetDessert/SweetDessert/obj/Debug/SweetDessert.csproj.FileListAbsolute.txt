@@ -1,0 +1,6 @@
+D:\SoftUniFundamentals\SweetDessert\SweetDessert\bin\Debug\SweetDessert.exe.config
+D:\SoftUniFundamentals\SweetDessert\SweetDessert\bin\Debug\SweetDessert.exe
+D:\SoftUniFundamentals\SweetDessert\SweetDessert\bin\Debug\SweetDessert.pdb
+D:\SoftUniFundamentals\SweetDessert\SweetDessert\obj\Debug\SweetDessert.csprojResolveAssemblyReference.cache
+D:\SoftUniFundamentals\SweetDessert\SweetDessert\obj\Debug\SweetDessert.exe
+D:\SoftUniFundamentals\SweetDessert\SweetDessert\obj\Debug\SweetDessert.pdb

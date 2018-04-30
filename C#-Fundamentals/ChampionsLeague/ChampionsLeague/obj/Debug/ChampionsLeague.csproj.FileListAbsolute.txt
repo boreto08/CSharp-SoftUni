@@ -1,0 +1,6 @@
+D:\SoftUniFundamentals\ChampionsLeague\ChampionsLeague\bin\Debug\ChampionsLeague.exe.config
+D:\SoftUniFundamentals\ChampionsLeague\ChampionsLeague\bin\Debug\ChampionsLeague.exe
+D:\SoftUniFundamentals\ChampionsLeague\ChampionsLeague\bin\Debug\ChampionsLeague.pdb
+D:\SoftUniFundamentals\ChampionsLeague\ChampionsLeague\obj\Debug\ChampionsLeague.csprojResolveAssemblyReference.cache
+D:\SoftUniFundamentals\ChampionsLeague\ChampionsLeague\obj\Debug\ChampionsLeague.exe
+D:\SoftUniFundamentals\ChampionsLeague\ChampionsLeague\obj\Debug\ChampionsLeague.pdb

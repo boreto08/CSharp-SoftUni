@@ -1,0 +1,6 @@
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\08.LogsAggregator\bin\Debug\08.LogsAggregator.exe.config
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\08.LogsAggregator\bin\Debug\08.LogsAggregator.exe
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\08.LogsAggregator\bin\Debug\08.LogsAggregator.pdb
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\08.LogsAggregator\obj\Debug\08.LogsAggregator.csprojResolveAssemblyReference.cache
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\08.LogsAggregator\obj\Debug\08.LogsAggregator.exe
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\08.LogsAggregator\obj\Debug\08.LogsAggregator.pdb

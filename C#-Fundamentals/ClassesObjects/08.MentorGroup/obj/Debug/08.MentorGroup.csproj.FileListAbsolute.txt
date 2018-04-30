@@ -1,0 +1,6 @@
+D:\SoftUniFundamentals\ClassesObjects\08.MentorGroup\bin\Debug\08.MentorGroup.exe.config
+D:\SoftUniFundamentals\ClassesObjects\08.MentorGroup\bin\Debug\08.MentorGroup.exe
+D:\SoftUniFundamentals\ClassesObjects\08.MentorGroup\bin\Debug\08.MentorGroup.pdb
+D:\SoftUniFundamentals\ClassesObjects\08.MentorGroup\obj\Debug\08.MentorGroup.csprojResolveAssemblyReference.cache
+D:\SoftUniFundamentals\ClassesObjects\08.MentorGroup\obj\Debug\08.MentorGroup.exe
+D:\SoftUniFundamentals\ClassesObjects\08.MentorGroup\obj\Debug\08.MentorGroup.pdb

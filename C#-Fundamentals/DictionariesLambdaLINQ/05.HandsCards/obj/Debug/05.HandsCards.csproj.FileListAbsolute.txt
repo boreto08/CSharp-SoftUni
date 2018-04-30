@@ -1,0 +1,6 @@
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\05.HandsCards\bin\Debug\05.HandsCards.exe.config
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\05.HandsCards\bin\Debug\05.HandsCards.exe
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\05.HandsCards\bin\Debug\05.HandsCards.pdb
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\05.HandsCards\obj\Debug\05.HandsCards.csprojResolveAssemblyReference.cache
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\05.HandsCards\obj\Debug\05.HandsCards.exe
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\05.HandsCards\obj\Debug\05.HandsCards.pdb

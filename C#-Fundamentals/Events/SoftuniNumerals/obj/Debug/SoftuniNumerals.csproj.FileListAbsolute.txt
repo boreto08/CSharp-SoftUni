@@ -1,0 +1,6 @@
+D:\SoftUniFundamentals\Events\SoftuniNumerals\bin\Debug\SoftuniNumerals.exe.config
+D:\SoftUniFundamentals\Events\SoftuniNumerals\bin\Debug\SoftuniNumerals.exe
+D:\SoftUniFundamentals\Events\SoftuniNumerals\bin\Debug\SoftuniNumerals.pdb
+D:\SoftUniFundamentals\Events\SoftuniNumerals\obj\Debug\SoftuniNumerals.exe
+D:\SoftUniFundamentals\Events\SoftuniNumerals\obj\Debug\SoftuniNumerals.pdb
+D:\SoftUniFundamentals\Events\SoftuniNumerals\obj\Debug\SoftuniNumerals.csprojResolveAssemblyReference.cache

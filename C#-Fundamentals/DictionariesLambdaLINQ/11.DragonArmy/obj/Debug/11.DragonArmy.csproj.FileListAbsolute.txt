@@ -1,0 +1,6 @@
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\11.DragonArmy\bin\Debug\11.DragonArmy.exe.config
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\11.DragonArmy\bin\Debug\11.DragonArmy.exe
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\11.DragonArmy\bin\Debug\11.DragonArmy.pdb
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\11.DragonArmy\obj\Debug\11.DragonArmy.csprojResolveAssemblyReference.cache
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\11.DragonArmy\obj\Debug\11.DragonArmy.exe
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\11.DragonArmy\obj\Debug\11.DragonArmy.pdb

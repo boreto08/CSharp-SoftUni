@@ -1,0 +1,6 @@
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\10.SerbianUnleashed\bin\Debug\10.SerbianUnleashed.exe.config
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\10.SerbianUnleashed\bin\Debug\10.SerbianUnleashed.exe
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\10.SerbianUnleashed\bin\Debug\10.SerbianUnleashed.pdb
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\10.SerbianUnleashed\obj\Debug\10.SerbianUnleashed.csprojResolveAssemblyReference.cache
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\10.SerbianUnleashed\obj\Debug\10.SerbianUnleashed.exe
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\10.SerbianUnleashed\obj\Debug\10.SerbianUnleashed.pdb

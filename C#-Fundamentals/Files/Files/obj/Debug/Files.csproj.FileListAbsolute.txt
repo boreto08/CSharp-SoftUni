@@ -1,0 +1,6 @@
+D:\SoftUniFundamentals\Files\Files\bin\Debug\Files.exe.config
+D:\SoftUniFundamentals\Files\Files\bin\Debug\Files.exe
+D:\SoftUniFundamentals\Files\Files\bin\Debug\Files.pdb
+D:\SoftUniFundamentals\Files\Files\obj\Debug\Files.csprojResolveAssemblyReference.cache
+D:\SoftUniFundamentals\Files\Files\obj\Debug\Files.exe
+D:\SoftUniFundamentals\Files\Files\obj\Debug\Files.pdb

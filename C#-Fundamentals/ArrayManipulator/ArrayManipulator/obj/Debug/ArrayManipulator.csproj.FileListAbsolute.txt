@@ -1,0 +1,6 @@
+D:\SoftUniFundamentals\ArrayManipulator\ArrayManipulator\bin\Debug\ArrayManipulator.exe.config
+D:\SoftUniFundamentals\ArrayManipulator\ArrayManipulator\bin\Debug\ArrayManipulator.exe
+D:\SoftUniFundamentals\ArrayManipulator\ArrayManipulator\bin\Debug\ArrayManipulator.pdb
+D:\SoftUniFundamentals\ArrayManipulator\ArrayManipulator\obj\Debug\ArrayManipulator.csprojResolveAssemblyReference.cache
+D:\SoftUniFundamentals\ArrayManipulator\ArrayManipulator\obj\Debug\ArrayManipulator.exe
+D:\SoftUniFundamentals\ArrayManipulator\ArrayManipulator\obj\Debug\ArrayManipulator.pdb

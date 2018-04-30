@@ -1,0 +1,6 @@
+D:\SoftUniFundamentals\ClassesObjects\04.Average Grades\bin\Debug\04.Average Grades.exe.config
+D:\SoftUniFundamentals\ClassesObjects\04.Average Grades\bin\Debug\04.Average Grades.exe
+D:\SoftUniFundamentals\ClassesObjects\04.Average Grades\bin\Debug\04.Average Grades.pdb
+D:\SoftUniFundamentals\ClassesObjects\04.Average Grades\obj\Debug\04.AverageGrades.csprojResolveAssemblyReference.cache
+D:\SoftUniFundamentals\ClassesObjects\04.Average Grades\obj\Debug\04.Average Grades.exe
+D:\SoftUniFundamentals\ClassesObjects\04.Average Grades\obj\Debug\04.Average Grades.pdb

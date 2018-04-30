@@ -1,0 +1,6 @@
+D:\SoftUniFundamentals\SoftUniCoffeeOrders\SoftUniCoffeeOrders\bin\Debug\SoftUniCoffeeOrders.exe.config
+D:\SoftUniFundamentals\SoftUniCoffeeOrders\SoftUniCoffeeOrders\bin\Debug\SoftUniCoffeeOrders.exe
+D:\SoftUniFundamentals\SoftUniCoffeeOrders\SoftUniCoffeeOrders\bin\Debug\SoftUniCoffeeOrders.pdb
+D:\SoftUniFundamentals\SoftUniCoffeeOrders\SoftUniCoffeeOrders\obj\Debug\SoftUniCoffeeOrders.csprojResolveAssemblyReference.cache
+D:\SoftUniFundamentals\SoftUniCoffeeOrders\SoftUniCoffeeOrders\obj\Debug\SoftUniCoffeeOrders.exe
+D:\SoftUniFundamentals\SoftUniCoffeeOrders\SoftUniCoffeeOrders\obj\Debug\SoftUniCoffeeOrders.pdb

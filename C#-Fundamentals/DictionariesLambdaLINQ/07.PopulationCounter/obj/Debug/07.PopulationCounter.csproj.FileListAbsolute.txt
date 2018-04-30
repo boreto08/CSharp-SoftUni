@@ -1,0 +1,6 @@
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\07.PopulationCounter\bin\Debug\07.PopulationCounter.exe.config
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\07.PopulationCounter\bin\Debug\07.PopulationCounter.exe
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\07.PopulationCounter\bin\Debug\07.PopulationCounter.pdb
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\07.PopulationCounter\obj\Debug\07.PopulationCounter.csprojResolveAssemblyReference.cache
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\07.PopulationCounter\obj\Debug\07.PopulationCounter.exe
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\07.PopulationCounter\obj\Debug\07.PopulationCounter.pdb

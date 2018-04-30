@@ -1,0 +1,6 @@
+D:\SoftUniFundamentals\ExamRetake\ExamRetake\obj\Debug\SinoTheWalker.csprojResolveAssemblyReference.cache
+D:\SoftUniFundamentals\ExamRetake\ExamRetake\bin\Debug\ExamRetake.exe.config
+D:\SoftUniFundamentals\ExamRetake\ExamRetake\bin\Debug\ExamRetake.exe
+D:\SoftUniFundamentals\ExamRetake\ExamRetake\bin\Debug\ExamRetake.pdb
+D:\SoftUniFundamentals\ExamRetake\ExamRetake\obj\Debug\ExamRetake.exe
+D:\SoftUniFundamentals\ExamRetake\ExamRetake\obj\Debug\ExamRetake.pdb

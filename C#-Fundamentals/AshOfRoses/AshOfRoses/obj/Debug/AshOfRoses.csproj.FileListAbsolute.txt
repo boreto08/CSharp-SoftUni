@@ -1,0 +1,6 @@
+D:\SoftUniFundamentals\AshOfRoses\AshOfRoses\bin\Debug\AshOfRoses.exe.config
+D:\SoftUniFundamentals\AshOfRoses\AshOfRoses\bin\Debug\AshOfRoses.exe
+D:\SoftUniFundamentals\AshOfRoses\AshOfRoses\bin\Debug\AshOfRoses.pdb
+D:\SoftUniFundamentals\AshOfRoses\AshOfRoses\obj\Debug\AshOfRoses.csprojResolveAssemblyReference.cache
+D:\SoftUniFundamentals\AshOfRoses\AshOfRoses\obj\Debug\AshOfRoses.exe
+D:\SoftUniFundamentals\AshOfRoses\AshOfRoses\obj\Debug\AshOfRoses.pdb

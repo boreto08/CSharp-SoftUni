@@ -1,0 +1,6 @@
+D:\SoftUniFundamentals\ExamRetake\WinningTicket\bin\Debug\WinningTicket.exe.config
+D:\SoftUniFundamentals\ExamRetake\WinningTicket\bin\Debug\WinningTicket.exe
+D:\SoftUniFundamentals\ExamRetake\WinningTicket\bin\Debug\WinningTicket.pdb
+D:\SoftUniFundamentals\ExamRetake\WinningTicket\obj\Debug\WinningTicket.exe
+D:\SoftUniFundamentals\ExamRetake\WinningTicket\obj\Debug\WinningTicket.pdb
+D:\SoftUniFundamentals\ExamRetake\WinningTicket\obj\Debug\WinningTicket.csprojResolveAssemblyReference.cache

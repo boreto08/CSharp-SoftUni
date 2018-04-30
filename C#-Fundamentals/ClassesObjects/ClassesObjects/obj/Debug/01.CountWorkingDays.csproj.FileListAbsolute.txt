@@ -1,0 +1,6 @@
+D:\SoftUniFundamentals\ClassesObjects\ClassesObjects\bin\Debug\ClassesObjects.exe.config
+D:\SoftUniFundamentals\ClassesObjects\ClassesObjects\bin\Debug\ClassesObjects.exe
+D:\SoftUniFundamentals\ClassesObjects\ClassesObjects\bin\Debug\ClassesObjects.pdb
+D:\SoftUniFundamentals\ClassesObjects\ClassesObjects\obj\Debug\01.CountWorkingDays.csprojResolveAssemblyReference.cache
+D:\SoftUniFundamentals\ClassesObjects\ClassesObjects\obj\Debug\ClassesObjects.exe
+D:\SoftUniFundamentals\ClassesObjects\ClassesObjects\obj\Debug\ClassesObjects.pdb

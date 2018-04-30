@@ -1,0 +1,6 @@
+D:\SoftUniFundamentals\BasicMarkupLanguage\BasicMarkupLanguage\bin\Debug\BasicMarkupLanguage.exe.config
+D:\SoftUniFundamentals\BasicMarkupLanguage\BasicMarkupLanguage\bin\Debug\BasicMarkupLanguage.exe
+D:\SoftUniFundamentals\BasicMarkupLanguage\BasicMarkupLanguage\bin\Debug\BasicMarkupLanguage.pdb
+D:\SoftUniFundamentals\BasicMarkupLanguage\BasicMarkupLanguage\obj\Debug\BasicMarkupLanguage.csprojResolveAssemblyReference.cache
+D:\SoftUniFundamentals\BasicMarkupLanguage\BasicMarkupLanguage\obj\Debug\BasicMarkupLanguage.exe
+D:\SoftUniFundamentals\BasicMarkupLanguage\BasicMarkupLanguage\obj\Debug\BasicMarkupLanguage.pdb

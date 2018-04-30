@@ -1,0 +1,6 @@
+D:\SoftUniFundamentals\ClassesObjects\07.AndreyBilliard\bin\Debug\07.AndreyBilliard.exe.config
+D:\SoftUniFundamentals\ClassesObjects\07.AndreyBilliard\bin\Debug\07.AndreyBilliard.exe
+D:\SoftUniFundamentals\ClassesObjects\07.AndreyBilliard\bin\Debug\07.AndreyBilliard.pdb
+D:\SoftUniFundamentals\ClassesObjects\07.AndreyBilliard\obj\Debug\07.AndreyBilliard.csprojResolveAssemblyReference.cache
+D:\SoftUniFundamentals\ClassesObjects\07.AndreyBilliard\obj\Debug\07.AndreyBilliard.exe
+D:\SoftUniFundamentals\ClassesObjects\07.AndreyBilliard\obj\Debug\07.AndreyBilliard.pdb

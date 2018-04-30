@@ -1,0 +1,6 @@
+D:\SoftUniFundamentals\ArrayModifier\ArrayModifier\bin\Debug\ArrayModifier.exe.config
+D:\SoftUniFundamentals\ArrayModifier\ArrayModifier\bin\Debug\ArrayModifier.exe
+D:\SoftUniFundamentals\ArrayModifier\ArrayModifier\bin\Debug\ArrayModifier.pdb
+D:\SoftUniFundamentals\ArrayModifier\ArrayModifier\obj\Debug\ArrayModifier.csprojResolveAssemblyReference.cache
+D:\SoftUniFundamentals\ArrayModifier\ArrayModifier\obj\Debug\ArrayModifier.exe
+D:\SoftUniFundamentals\ArrayModifier\ArrayModifier\obj\Debug\ArrayModifier.pdb

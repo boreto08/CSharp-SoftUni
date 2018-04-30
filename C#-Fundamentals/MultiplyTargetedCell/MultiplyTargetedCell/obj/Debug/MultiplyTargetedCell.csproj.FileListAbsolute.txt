@@ -1,0 +1,6 @@
+D:\SoftUniFundamentals\MultiplyTargetedCell\MultiplyTargetedCell\bin\Debug\MultiplyTargetedCell.exe.config
+D:\SoftUniFundamentals\MultiplyTargetedCell\MultiplyTargetedCell\bin\Debug\MultiplyTargetedCell.exe
+D:\SoftUniFundamentals\MultiplyTargetedCell\MultiplyTargetedCell\bin\Debug\MultiplyTargetedCell.pdb
+D:\SoftUniFundamentals\MultiplyTargetedCell\MultiplyTargetedCell\obj\Debug\MultiplyTargetedCell.csprojResolveAssemblyReference.cache
+D:\SoftUniFundamentals\MultiplyTargetedCell\MultiplyTargetedCell\obj\Debug\MultiplyTargetedCell.exe
+D:\SoftUniFundamentals\MultiplyTargetedCell\MultiplyTargetedCell\obj\Debug\MultiplyTargetedCell.pdb

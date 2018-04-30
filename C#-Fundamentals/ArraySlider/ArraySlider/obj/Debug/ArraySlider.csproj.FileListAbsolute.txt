@@ -1,0 +1,6 @@
+D:\SoftUniFundamentals\ArraySlider\ArraySlider\bin\Debug\ArraySlider.exe.config
+D:\SoftUniFundamentals\ArraySlider\ArraySlider\bin\Debug\ArraySlider.exe
+D:\SoftUniFundamentals\ArraySlider\ArraySlider\bin\Debug\ArraySlider.pdb
+D:\SoftUniFundamentals\ArraySlider\ArraySlider\obj\Debug\ArraySlider.csprojResolveAssemblyReference.cache
+D:\SoftUniFundamentals\ArraySlider\ArraySlider\obj\Debug\ArraySlider.exe
+D:\SoftUniFundamentals\ArraySlider\ArraySlider\obj\Debug\ArraySlider.pdb

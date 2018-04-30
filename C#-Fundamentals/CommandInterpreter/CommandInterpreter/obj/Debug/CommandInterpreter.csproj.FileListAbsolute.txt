@@ -1,0 +1,6 @@
+D:\SoftUniFundamentals\CommandInterpreter\CommandInterpreter\bin\Debug\CommandInterpreter.exe.config
+D:\SoftUniFundamentals\CommandInterpreter\CommandInterpreter\bin\Debug\CommandInterpreter.exe
+D:\SoftUniFundamentals\CommandInterpreter\CommandInterpreter\bin\Debug\CommandInterpreter.pdb
+D:\SoftUniFundamentals\CommandInterpreter\CommandInterpreter\obj\Debug\CommandInterpreter.csprojResolveAssemblyReference.cache
+D:\SoftUniFundamentals\CommandInterpreter\CommandInterpreter\obj\Debug\CommandInterpreter.exe
+D:\SoftUniFundamentals\CommandInterpreter\CommandInterpreter\obj\Debug\CommandInterpreter.pdb

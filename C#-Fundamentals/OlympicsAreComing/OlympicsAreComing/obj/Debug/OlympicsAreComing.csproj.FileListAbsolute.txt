@@ -1,0 +1,6 @@
+D:\SoftUniFundamentals\OlympicsAreComing\OlympicsAreComing\bin\Debug\OlympicsAreComing.exe.config
+D:\SoftUniFundamentals\OlympicsAreComing\OlympicsAreComing\bin\Debug\OlympicsAreComing.exe
+D:\SoftUniFundamentals\OlympicsAreComing\OlympicsAreComing\bin\Debug\OlympicsAreComing.pdb
+D:\SoftUniFundamentals\OlympicsAreComing\OlympicsAreComing\obj\Debug\OlympicsAreComing.csprojResolveAssemblyReference.cache
+D:\SoftUniFundamentals\OlympicsAreComing\OlympicsAreComing\obj\Debug\OlympicsAreComing.exe
+D:\SoftUniFundamentals\OlympicsAreComing\OlympicsAreComing\obj\Debug\OlympicsAreComing.pdb

@@ -1,0 +1,6 @@
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\DictionariesLambdaLINQ\bin\Debug\DictionariesLambdaLINQ.exe.config
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\DictionariesLambdaLINQ\bin\Debug\DictionariesLambdaLINQ.exe
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\DictionariesLambdaLINQ\bin\Debug\DictionariesLambdaLINQ.pdb
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\DictionariesLambdaLINQ\obj\Debug\01.PhoneBook.csprojResolveAssemblyReference.cache
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\DictionariesLambdaLINQ\obj\Debug\DictionariesLambdaLINQ.exe
+D:\SoftUniFundamentals\DictionariesLambdaLINQ\DictionariesLambdaLINQ\obj\Debug\DictionariesLambdaLINQ.pdb
